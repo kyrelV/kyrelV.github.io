@@ -1,0 +1,2606 @@
+<html>
+<meta charset="utf-8">
+<body>
+<center><title>Livermorium</title>
+<style>
+body {
+ 
+background-repeat: no-repeat;
+background-color:red;
+}
+
+
+h1 {color:black;
+  text-align: center;
+font-size:50px;
+background-color:gold;
+}
+h2 {color:indigo;
+
+}
+h3{color:teal;
+
+}
+.h{
+color:white;
+font-size: 36px;
+
+}
+.h{
+font-family:Garamond;
+  text-align: center;
+background-color:maroon;
+}
+h2{
+font-family:garamond;
+  text-align: center;
+background-color:gold;
+}
+
+#introduction{
+  color: black;
+  text-align: center;
+  line-height: 0.9;
+font-family:fantasy;
+background-color:red;
+}
+#introduction{
+font-size:40px;
+background-color:red;
+}
+.p{
+text-align: center;
+font-size: 30px;
+
+}
+.p{
+font-family:courier new;
+color:black;
+background-color:red;
+}
+
+
+#poem{
+text-align: center;
+font-family:Fantasy;
+font-size: 46px;
+}
+
+#poem1{
+font-size:40px;
+font-family:Fantasy;
+}
+
+.list{
+text-align:left;
+font-size:25px;
+color:black;
+ 
+}
+.bizzare{
+text-align: left;
+font-size: 25px;
+font-family:courier new;
+color:black;
+background-color:gold;
+
+}
+#table-info{
+font-size:25px;
+text-align:center;
+background-color:maroon;
+}
+#table{
+font-size:25px;
+font-family:Courier New;
+background-color:maroon;
+}
+.pic {
+   padding:0px;
+   border:4px solid #021a40;
+}
+ 
+.list{
+width: 100%; 
+display:block;
+whit-space:nowrap;
+overflow:hidden;
+
+}
+#list{
+text-align:left;
+background-color:maroon;
+}
+#idc{
+text-align:left;
+background-color:gold;
+}
+.ref{
+font-size: 30px;
+}
+</style>
+
+
+<h1> <strong><em>The Element Livermorium</em></strong> </h1>
+
+<audio controls>
+  <source src="https://www.youtube.com/watch?v=rz4Dd1I_fX0" type="audio/">
+										
+	</audio>	
+
+<h6 id=list class=h> Table of Contents</h6>
+<marquee> 
+<li  class=list><span></span><a href="#list">Table of Contents</a></li>
+<li  class=list><a href="#intro">Introduction</a></li>
+<li  class=list ><a href="#properties">Properties of Livermorium</a></li>
+<li  class=list><a href="#history">History of Livermorium</a></li>
+<li  class=list><a href="#poem">Poem By Me</a></li>
+<li  class=list><a href="#common">Common Uses</a></li>
+<li  class=list><a href="#fact">Bizzare Facts</a></li>
+</marquee>
+
+<h2  id="intro" class=h>Introduction</h2>
+
+<p id=introduction> 
+<strong>This webpage is about an element of the periodic table<br>
+ this element is named <strong><em>livermorium</em></strong>.<br>
+livermorium is an element of the periodic table<br>
+ with atomic number <em>116</em> and chemical symbol <strong>Lv</strong>.<strong>
+ </p>
+
+ <img class=pic src="https://www.sciencedaily.com/images/2019/07/190729151844_1_540x360.jpg"  
+height = "500" height= "500"alt> 
+
+<h3  id="properties"class="h">Properties</h3>
+
+<p  class=p>
+Livermorium is a solid at room temperature and it is a metal solid.<br>
+Only a few atoms of this metal have ever been made in the lab,<br>
+the boiling and melting points are unknown. <br>
+Livermorium is known for being the smellieist element.<br>
+The element does not feel like anything because it is very tiny.<br>
+ Livermorium is a radioactive element,<br>
+which means the nucleus breaks down over time.
+</p>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/YWKlqO9niuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p  class=p id=table-info>
+Here we have a table that discusses<br>
+a few things about Livermorium.<br>
+It would be boring to just have a table about livermorium<br>
+which is why we are going to be comparing it to two other elements<br>
+of the Periodic Table;<br>
+Gold and Hydrogen. Now all these elements (Livermorium, Hydrogen, and Gold)<br>
+are all parts of different groups which will make it a little more ineresting.
+</p>
+        <table id=table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Boiling Point</th>
+                    <th>Melting Point</th>
+                    <th>State at 20*C</th>
+                    <th>Colour</th>
+                    <th>Group</th>
+             
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Livermorium</td>
+                    <td>------</td>
+                    <td>------</td>
+                    <td>Solid</td>
+                    <td>Colourless</td>
+                    <td>  Superheavy Elements </td>
+                </tr>
+                <tr>
+                     <td>Gold</td>
+                    <td>2,700 °C</td>
+                    <td>1,064 °C</td>
+                    <td>Solid</td>
+                    <td>Golden</td>
+                    <td>  Transition Metals </td>
+                </tr>
+                 <tr>          
+                    <td>Hydrogen</td>
+                    <td>------</td>
+                    <td>------</td>
+                    <td>Gas</td>
+                    <td>Colourless</td>
+                    <td>  Hydrogen </td>
+
+                </tr>
+            </tbody>
+        </table>
+        
+<h4  id="history"class="h">History</h4>
+
+<p  class=p>
+Livermorium, which is Element 116 with Chemical symbol Lv,<br>
+was first made in dubna, Russia July 2000.<br>
+The discovery was a collaboration the science teams at the<br>
+'joint institute for nuclear reaserch' in Dubna<br>
+and the Lawrence Livermore National Laboratory in California <br>
+led by Yuri Oganessian and Ken Moody.
+</p>
+<img class=pic src="https://media.istockphoto.com/vectors/livermorium-symbol-on-label
+-in-a-yellow-test-tube-with-holder-element-vector-id913179310?k=6&m=913179310&s
+=170667a&w=0&h=AeF_6frdn4YEhN8hH2bX6M-f5G6ahCabjIZ64JzCUiI=" 
+height="600" width="550" alt>
+
+<h5  id="poem" class="h">Poem</h5>
+
+<p  id="poem1" class=p>
+Livermorium was discovered in a Russian research joint<br>
+And it is so hard to find its melting point<br>
+Livermorium is radioactive<br>
+The scientist's hair was hyperactive<br>
+Striving for success<br>
+Going through the stress<br>
+Ahmad M chose potassium<br>
+There you go livermorium
+</p>
+
+<H6  id="common" class="h">Common Uses</H6>
+
+<p  class=p>
+Livermorium is a highly radioactive metal.<br>
+Only a few atoms of the element have ever been made.<br>
+Today it is only used in research and it also does not occur naturally. <br>
+Livermorium is made by bombarding curium atoms with calcium.
+</p>
+<img class=pic src="https://media.wired.com/photos/5926
+5ad1cfe0d93c4742fe83/master/pass/Mar
+ch-for-ScienceHP-1.jpg" 
+height="500" width="600" alt>
+
+
+<h6   id=fact class=h>Bizzare Facts</h6>
+
+
+<li  class=bizzare>Livermorium is named after the 'Lawrence Livermore National Laboratory' in the United States</li>
+<li  class=bizzare>Livermorium is artificially made element and it is not found in nature </li>
+<li  class=bizzare>Only a few atoms have ever been made</li>
+<li  class=bizzare>Livermorium is the smelliest element</li>
+
+<h6 class=h id=idc> If you want to memorise the elements of the <em>Periodic Table</em></h6>
+<iframe width="606" height="400" src="https://www.youtube.com/embed/rz4Dd1I_fX0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h6 class=h id=ref class=h>Bibliography</h6>
+
+<li class="Ref"> <a href="http://www.chemistrylearner.com/livermorium.html">http://www.chemistrylearner.com/livermorium.html</a> </li>
+<li class="Ref"> <a href="https://en.wikipedia.org/wiki/Livermorium 3">https://en.wikipedia.org/wiki/Livermorium </a></li>
+<li class="Ref"> <a href="https://study.com/academy/lesson/livermorium-uses-facts-properties.html">https://study.com/academy/lesson/livermorium-uses-facts-properties.html</a></li>
+<li class="Ref"> <a href="https://www.chemicool.com/elements/livermorium.html">https://www.chemicool.com/elements/livermorium.html</a></li>
+<li class="Ref"> <a href="http://www.rsc.org/periodic-table/element/116/livermorium">http://www.rsc.org/periodic-table/element/116/livermorium</a></li>
+<li class="Ref"> <a href="https://en.m.wikipedia.org/wiki/Livermorium ">https://en.m.wikipedia.org/wiki/Livermorium </a></li>
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html Lang=en>
+    <head>
+        <meta charset="utf-8">
+
+        <title>That's my element: Mercury</title>
+    
+     <style>
+body {
+ background-color: Silver ; 
+}
+
+
+
+#Crediting-list {
+                  background-color: Grey ;
+              }
+     </style>
+</head>
+   <body>
+
+<table>
+<tr><th>Table Of Contents</th></tr>
+
+<tr><td><a href="Mercury-infomation"> Infomation </a></td></tr>
+
+
+
+
+</table>
+
+
+
+
+    <h1 id="Mercury-title">Mercury</h1>
+    
+ <table>
+    <tr><th>Information</th></tr>
+
+ <tr><td>Atomic Mass:</td><td>200.59u<td></tr>
+
+ <tr><td>Atomic Number:</td><td>80</td></tr>
+
+ <tr><td>Boiling point:</td><td>-38.83 
+
+C</td></tr>
+
+ <tr><td>when discovered:</td><td>1500 B.C</td></tr>
+
+ <tr><td>location/locations:</td><td>Ancient China,Egypt and India</td></tr>
+ 
+ </table>
+<img src="https://www.dw.com/image/15951408_303.jpg" width=300 alt="A picture of Mercury poring out of a metal sringe">
+          <h2 id="Mercury-infomation">Information</h2>
+ 
+ <p>Mercury (HG), Also Known as Quick silver is a <strong><em>unique</em></strong> Metallic element, as one of only two known elements that are in a liquid state at room temperature, <br>
+ along with Bromine (BR). Mercury at room temperature is a fast moving, shiny but very poisonous to humans.(Hg) stands for hydrargyrum which originated from Greek which meant "liquid Sliver�. Although very poisonous to humans, Mercury can still be very helpful because of its electro-magnetic properties for example: it could be used in switches in thermostats, coolant in nuclear power plants and neon light. sometimes, when mercury was mined is would surround gold like a shiny pellet would have to burn to get the purified gold. Mercury is rarely ever found in nature and is never found in its purest state, but as Mercury Sulfide(HgS)</p>	
+            <h2 id="Mercury-History">history</h2>
+    
+<p>Mercury was discovered in the year 1500 B.C and was used to treat skin diseases even though it was poisonous. killing countless people in 500 B.C.E(Before Common Era) all over India and China.<br>Studies have reported that Chinese women would use Mercury as sedative in traditional Chinese medicine.in the 18th century, Mercury was being used increasingly in the scientific researching equipment as of result of Torricelli's Invention
+</p>
+
+<h3>What if you were to DIEA(drink,Inhale,Eat or absorb) Murcury?</h3>  
+
+ <iframe src="watch?v=e9J3fCOgsxI" alt=>
+ <
+
+ 
+ <h3>Credits to:</h3>
+  
+ <ul id="Crediting-list">
+
+ <li><a href="https://www.livescience.com/39232-facts-about-mercury.html"Introduction>to learn more about mercury</a></li>
+
+ <li><a href="https://www.quora.com/Which-elements-are-liquid-at-room-temperature">to find out why Murcury is liquid at room tempreture</a></li>
+
+ <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css">to learn to code yourself!</a></li>
+ 
+<li><a href="https://mercurypolicy.scripts.mit.edu/blog/?p=367">to find out more about the history of Mercury</a></li>
+ 
+ </ul>
+
+ 
+
+
+    </body>
+</html lang="en">
+<html>
+
+    <head>
+
+        <meta charset="utf-8">
+
+        <title> What Is Nickel? </title>
+
+    </head>
+
+      <body>
+
+<center>
+
+          <h1 id="Name-Of-The-Element"> Nickel </h1>
+
+</center>
+
+        <style>
+        
+        h1 {
+            color: blue;
+        }  
+        
+        body {
+            background-color: yellow;
+        }
+            
+
+        h3 {
+            color: blue;
+        }
+
+ 	}
+        
+        .info {
+            font-color: purple;
+        }
+
+        </style>
+
+<center>
+
+          <img id="Pictures" src="https://zealheight.com/wp-content/uploads/2016/07/Manganese-Ore.jpg" alt="Nickel Ore" width="203">
+	
+          <img id="Pictures" src="https://blog.csiro.au/wp-content/uploads/2012/10/nickel-coin.jpg" alt="Nickel Coin" width="203">
+
+ 	  <img id="Pictures" src="https://sc02.alicdn.com/kf/HTB1y1NFHFXXXXXtaXXXq6xXFXXX1/SKONE-nickel-free-watch-quartz-stainless-steel.jpg_350x350.jpg" alt="Nickel Watch" width="203">
+
+</center>
+
+      <marquee>
+
+        <ul>
+
+          <li> <a href="#Symbol-and-Atomic-Number"> Atomic number </a>  </li>
+
+          <li> <a href="#Symbol-and-Atomic-Number"> Symbol </a>  </li>
+
+          <li> <a href="#Bibliography"> Find out more about the discoveries of <em> Nickel </em> </a>  </li>
+
+	  <li> <a href="#Bibliography-2"> Find out more about the properties of <em> Nickel </em> </a>  </li>
+
+          <li> <a href="#Facts"> Bizarre facts </a>  </li>
+
+          <li> <a href="#Common-uses"> Common uses </a>  </li>
+
+          <li> <a href="#Poem"> Poem </a>  </li>
+
+          <li> <a href="#Properties"> Properties </a> </li>
+
+          <li> <a href="#Name-Of-The-Element"> Name of the element </a>  </li>   
+
+          <li> <a href="#Pictures"> Pictures </a>  </li>
+	  
+	  <li> <a href="#Who?-Where?-When was it discovered?"> Who? Where? When was it discovered? </a> </li>  
+   
+        </ul>
+
+      </marquee>
+
+          <h3 id="Symbol-and-Atomic-Number" style="text-align: center;"> Symbol and Atomic Number </h3>
+
+<center>
+
+	<p class="info"> Nickel is a chemical element with the symbol Ni and atomic number 28. </p>
+
+	<img  src="https://previews.123rf.com/images/konstantinks/konstantinks1610/konstantinks161000074/63714969-periodic-table-element-nickel-icon-on-white-background-vector-illustration-.jpg" alt="Nickel In The Periodic Table" width="203">
+
+</center>
+
+<center>
+           <h3 id="Who?-Where?-When was it discovered?"> Who? Where? When was it discovered? </h3>
+
+           <a id="Bibliography" target="_blank" href="https://education.jlab.org/itselemental/ele028.html"> Find out more about the discoveries of <em> Nickel </em> </a target>
+
+           <p>Nickel was discovered by the Swedish chemist <em>Axel Fredrik Cronstedt</em> in the mineral niccolite in 1751.<br> Today, most nickel is taken from the mineral <em> pentlandite </em>.<br> Most of the world's supply of nickel is found in Ontario, Canada.<br> It is widely known that this large deposit of nickel ore came from an ancient meteor impact.</p>
+
+	   <iframe width="560" height="315" src="https://www.youtube.com/embed/7jmW7_IrMCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+	   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cronstedt.jpg/330px-Cronstedt.jpg" Alt="Axel Fredrik Cronstedt" width="203">
+</center>
+
+<center>
+	  
+           <h3 id="Properties"> Properties </h3>
+
+           <p class="info"> Nickel is a solid. It is a silvery-white lustrous metal with a slight golden tinge.<br> Nickel and its compounds have no characteristic odor or taste. Nickel feels like any other metal/stone. </p>
+
+        <a target="_blank" href="https://www.ducksters.com/science/chemistry/nickel.php"> Find out more about the properties of <em> Nickel </em> </a target>
+
+
+<table style="width:70%">
+  	 
+	 <tr>
+
+	    <th> Melting Point/Density/Electron configuration </th>
+
+	    <th> Boiling Point/Number Of Electrons </th>
+
+	    <th> Discovered/Atomic Mass </th>
+
+	 </tr>
+
+	 <tr>
+
+	    <td> 1,455 °C </td>
+
+	    <td> 2732.0° C </td> 
+
+	    <td> 1751 </td>
+
+	 </tr>
+
+	 <tr>
+  	 	 <td> 8.902 grams per cubic centimeter </td>
+
+   	 	 <td> 28 </td> 
+
+   		 <td> 58.6934 u </td>
+  	 </tr>
+
+	 <tr>
+
+  	 	 <td> [Ar] 3d84s2 </td>
+  	 
+ 	 </tr>
+
+
+</table>
+
+</center> 
+
+<center>
+           <h3 id="Poem"> Poem </h3>
+
+           <p> Nickel, Nickel,<br> Short and Fat,<br> You're worth 5,<br> I know that. </p>
+
+</center>
+
+<center>
+
+<table id="Common-uses" style="width:80%">
+  	 
+	 <tr>
+
+	    <th> Common everyday uses </th>
+
+	    <th> Common everyday uses </th>
+
+	    <th> Common everyday uses </th>
+
+	    <th> Common everyday uses </th>
+
+	    <th> Common everyday uses </th>
+
+	    <th> Common everyday uses </th>
+
+	    <th> Common everyday uses </th>
+
+	 </tr>
+
+	 <tr>
+
+	    <td> Batteries </td>
+
+	    <td> Shower heads </td> 
+
+	    <td> Coins </td>
+
+	    <td> Cars </td>
+
+	    <td> Mobile phones </td>
+
+	    <td> Jet engines </td>
+
+	    <td> Cutlery </td>
+
+	 </tr>
+
+
+</table>
+
+</center>
+
+
+	<h3 id="Facts"> Wierd Facts About Nickel </h3> 
+ 
+        <ul>
+
+          <li> The U.S. five cent coin, the "nickel", is composed of 75% copper and 25% nickel. </li>
+
+          <li> It is the second most abundant element in the Earth's core after iron. </li>
+
+          <li> Nickel plays a role in the cells of plants and some microorganisms. </li>
+
+        </ul>
+
+<center>
+
+        <a id="Bibliography-2" target="_blank" href="https://www.ducksters.com/science/chemistry/nickel.php"> Find out more interesting and bizarre facts about <em> Nickel </em> </a target>
+
+</center>
+
+    </body>
+
+</html>
+<html> 
+
+<head> 
+<style> 
+
+#Mark { 
+     color: rgb(112, 240, 48);
+}
+
+body { 
+     background-color: rgb(34, 137, 227);
+}
+
+</style>
+</head>
+
+<body> 
+
+
+
+<h1 id="top">Potassium and the excceeding uses for it</h1>
+
+<h2>Table of contents</h2>
+
+<ul>
+
+<li><a href=#What-is-it>What is potassium?</a href>
+<li><a href=#used-for>Where does it come from?</a href>
+<li><a href=#Periodic-table>Where is it on the periodic table and what is the atomic number/symbol for it?</a href> 
+<li><a href=#body>How is it used in your body and how is it processed?</a href>
+<li><a href=#Found>Who found out about Potassium?</a href>  
+<li><a href=#temp>What is potasium at room temperature?</a href>
+<li><a href=#vid>A video on potassium!</a href>
+<li><a href=#poem>Potassium, the acrostic poem!</a href>
+
+</ul>
+
+<h1 id="What-is-it">So What is Potassium anyway?</h1>
+
+<p><strong>Potassium<strong> is a <strong>mineral</strong> and <strong>electrolyte</strong>. it is found in fruits and veggies such as bananas, avacado, cucumber, kiwi etc. It helps your muscles 
+function, including the ones that make your heart beat. Any of the extra <strong>Potassium</strong> we have in our blood is removed from the blood via our kidneys and stores
+it for the next time you need it.</p>
+
+<br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRM0lXG-n1nhcW1rPmMp22YTmS8VCc0gyRlRI8NbfO-dxVt49c"/>
+<br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmzt7w3wzrn2A5iDfaCt6H7Gbcmn-E5AWbXWaejESDo4b3E_kQQ"/>
+<br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqDPAhb8qr0yHBMUVw8Fx4GVBpscJp3D-v0M_L8uetOIt2z9WG"/>
+<br>
+<h1 id="used-for">Where does it come from?</h1>
+
+<p><strong>Potassium</strong> comes from your daily foods like foods and veggies that contain a lot of potassium not to be confused with potassium nitrate, (a nitrogen containing compound commonly reffered to as saltpeter or saltpetre with uses such as fertelizer, stump removal, rocket proppelants, and fire works). We also shouldn't mix it up with potassium peroxide, (a inorganic compound that has the symbol K2O2).Potassium comes from a different variety of fruits and vegetables like coconuts, leafy greens, eggplant, zucchini, cucumbers, cooked potatoes and ccooked sweet potatoes.</p>
+
+<br> 
+<img src="https://sc01.alicdn.com/kf/UTB8m4Izj0oSdeJk43Owq6ya4XXa9/potassium-superoxide-potassium-peroxide-KO2-tablet.jpg_350x350.jpg">
+<br> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/K2O2-structure.jpg/220px-K2O2-structure.jpg">
+<br>
+
+<h1 id="Periodic-table">Where is it on the periodic table and what is the atomic number/symbol for it?</h1>
+
+<p>Potasium is found in the Alkali Metals section on the periodic table with it's number and symbol being "19" and "K". The Alkali Metals side is noticeably to the left side of the periodic table just below Hydrogen and next to the Alkaline Earth metals.  
+
+<a href=#top>Back Up?</a href>
+
+<br>
+<img src="https://chem.libretexts.org/@api/deki/files/109483/2.9.jpg?revision=1" width="355">
+<br> 
+<img src="https://previews.123rf.com/images/tony4urban/tony4urban1801/tony4urban180100020/93554604-potassium-chemical-element-periodic-table-science-symbol.jpg" width="155">
+<br> 
+
+<h1 id="body">How is it used in your body and how is it processed?</h1>
+
+<p>As soon as you have a delicious meal full of potassium your body gets to work processing it y seperating the potassium and taking it to your blood. After this it takes the blood to hte kidneys where it takes off all the extra potassium and stores it but also gives it back up to the blood and muscles/bones etc.</p>
+
+<img src="https://www.niddk.nih.gov/-/media/Images/Health-Information/Diabetes/KidneysHighlighted_330x410.jpg?la=en&hash=68908A557F821ABC401626E7F50032E7" width="225">
+
+<h1 id="Found">Who Found Potassium?</h1>
+
+<p>Sir Humhry Davy in 1807 <b>through the electrolysis of molten caustic potash (KOH). I might not know the rest but i can definetely say that Sir Humphry Davy was most definetely a scientist.</b></p>
+
+<br>
+<img src="https://www.sciencehistory.org/sites/default/files/styles/standard_profile_image/public/historical_profile/davy-large-profile.jpg?itok=ZLwfQRe7&timestamp=1512422700">
+<br> 
+
+<h1 id="temp">What is potassium as a solid liquid and gas</h1>
+<br>
+<a href=#top>Back Up?</a href>
+
+<p>This is potassium as in the metal type so you can refer to the table below for more info and the text below to get a better understanding of it. So without further ado, let me show you the table!</p>
+<br>
+<font="10">
+<table> 
+<tr>
+<th>Solid</th>
+<th>Liquid</th>
+<th>Gas</th>
+</tr>
+<tr>
+<td>20°C</td>
+<td>63.25°C</td>
+<td>760°c</td> 
+</table>
+</font>
+<br>
+
+<p>so as you saw in my table you can make out the solid, liquid and gas temperatures for the metal potassium. it is solid at 20°C, liquid is 63.25°C, and gas is 760°C.</p>
+<br>
+<img src="https://5.imimg.com/data5/CV/CI/MY-51778093/potassium-metal-500x500.jpg">
+<br>
+
+<h1 id="vid">A video on potassium</h1>
+<a href=#top>Back Up?</a href>
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RHOK3HvvnVs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+<h1 id="poem">Potassium, the acrostic poem!</h1>
+
+<h3>Particles</h3>
+<h3>Over exciting</h3>
+<h3>The most reactive</h3>
+<h3>As explosive as this website</h3>
+<h3>So good for you</h3>
+<h3>Super shiny</h3>
+<h3>Inconceivable</h3>
+<h3>Undefineabley the best element</h3>
+<h3>More than an element</h3>
+
+<h2>Iiiiiiiiits.......POTASSIUM!!!</h2>
+
+<marquee behavior="scroll" direction="left" id="Mark"> bibliography: <a href = "https://www.google.com/search?q=potassium&rlz=1C1GCEA_enAU838AU838&source=lnms&sa=X&ved=0ahUKEwja54K87d3jAhVHeysKHW7jC18Q_AUIDCgA&biw=1304&bih=697&dpr=1">google</a href> <a href="https://www.webmd.com/diet/foods-rich-in-potassium">35 Potassium foods</a href> <a href="https://www.youtube.com/watch?v=RHOK3HvvnVs">Pottasium vid</a href> <a href="https://www.healthline.com/nutrition/what-does-potassium-do">pottasium in the body</a href>    </marquee>
+
+</body>
+
+
+
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+
+      <head>
+               <h1> All About Silver
+           
+             <style>
+        
+       h1 {
+            color: rgb(159, 162, 168)
+            ;
+        }  
+
+      body  { background-color: rgb(201, 203, 224);
+            }
+            
+        </style>
+
+      </head>
+      <body>
+            
+<h2>Table of Contents</h2>
+    <ul>
+<li>Things about Silver</li>
+<li>Who, When, and Where was Silver discovered?</li>
+<li>A poem about Silver</li>
+<li>Lists of common uses of Silver</li>
+<li>Bizarre Facts about Silver</li>
+<li>Pictures of Silver</li>
+<li>Bibliography of Silver<li>
+<h2>Things about Silver</h2>
+<p>This web page is all about the element silver. The symbol of the silver is Ag, the atomic number is 47, and that silver is solid, a not liquid or gas. Silver is a very 
+soft metal with bright, shinig coating. Silver is a little bit harder than gold and it looks a lot like <strong>granite</strong> when it's been mined. If you rub the 
+silver and it smells very metallic, brassy, or what they call 'dirty metallic', then it's not excellent. Clean, excellent silver shouldn't have a smell. The silver's
+boiling point is 2,162 C, it's melting point is 961 C, and mostly all silver is produced as a side-effect of copper, gold, lead, and zinc purify. 
+Silver has been a long evaluate as a valuable metal.<p>
+
+<li><img src="https://www.mining.com/wp-content/uploads/2016/04/Silver-admin-9001.jpg" width="321" length="123"> 
+      
+</body>
+
+<h2>Who, When , and Where was Silver discovered?</h2>
+<p>Silver is one of the first metals to be discovered and silver was found by ancient people. Silver artifacts has been found by many ancient cultures such as the Sumer
+from the 3000 BC. Silver has a very valuable place because it is one of the first metals to be discovered by humans. Silver objects have been found before 4000 BC and
+was found in Greece and slightly later in Anatolia (in modern Turkey). Silver is s very special metal for many things and the first silver was found in Greece. 
+Silver has been used for many things as it shows on the picture below.</p>
+
+<li><img src="https://geology.com/articles/uses-of-silver/familiar-uses-of-silver.jpg">
+
+       <h2>Poem about Silver</h2>
+   
+<p><strong>Silver is like a star that shines through the night,</p></strong>
+<p><strong>It is like the sun that helps us give us light.</p></strong>
+<p><strong>Little did you know it was found in the earth,</p></strong>
+<p><strong>Very, very long ago, even when your mother gave birth.</p></strong>
+<p><strong>Everyday we use Silver to create many things,</p></strong>
+<p><strong>Right even before your eyes, they shine like a butterfly's wings.</p></strong>   
+
+<li><img src="https://www.pcscoins.com/secure/Content/ImagesProducts/4008a7cf-aafe-441f-b8d9-f59cb9da53fd_400_0.jpg">
+
+<h2>Lists of common uses of Silver</h2>
+     <ul>
+<li>There are many things that you can make out of silver. I am going to tell you 5 popular things that they use for silver: Electrical and Electronics. We all know that
+we own something silver in it. Silver holds an excellent electrical carry, making it the best choice for elctrical things or anything else such as printed circuit board,
+television screens, all types of phones, microwave, ovens, kid's toys, and keyboards for computers. Silver is a highly valuable and long-lasting metal for many cycles.</li>
+<li>Jewelery and Silverware:Always looking attractive, reflective, and a modelable metal, silver is used mostly in jewelery and silverware. Silver is a cheaper matal than 
+gold and it resists oxidation and corrosion. Even though silver can still lose its color, but a little polish can make it shine for a long time.</li>
+<li>Photography:Silver's been used for photography for many centuries, suitable for sensitivity. Common photography use films covered floride crystals which was set when
+it exposes to light creating a graphic pictures. It's perfection allows silver to be used for non-digital photography, common films, and X rays.</li>
+<li>Antibacterial:For many centries, people have used silver vessels to bring water, wine, and vinegar to protect the freshness, but why didn't silver work? It was
+discovered that silver absorbs oxygen, which literally kills bacteria. It's also non-toxic which makes it the best instrument for water purification, bandages, dental
+cleanliness, and eye drops.</li>
+<li>Coins and Rounds:And finally, there is coins and rounds. The best way to get your hands on a pure silver are coins and rounds. Silver coins are really good for
+collecting money. They are great to fill in something iconic, special, and rare. Rounds are also great for collecting things for future investments purposes. They are
+really close to the market place and are still examine as a collecters item.</li>
+
+<li><img src="https://images-na.ssl-images-amazon.com/images/I/51IiDNWMYlL.jpg"> 
+
+<h2>Bizarre Facts about Silver</h2>
+<p>Silver is a highly valuable metal and it's more harder than gold and has the best electrical conductivity of any other metals. Another interesting fact about silver
+is silver was seperated by other civilistions around 3000 BC. Silver is such a soft, shiny metal that is a very good conducter of electricity. Silver is a very precious
+metal that has been used for many years to make beautiful jeweleries, coins, electronic devices, and many pieces of art.</p>
+
+<li><img src="https://www.forexnewsnow.com/wp-content/uploads/2017/03/1451283722.jpg">
+
+
+<h2>Bibliography of Silver</h2>
+<a href="http://www.softschools.com/facts/periodic_table/silver_facts/223/">SofSchools</a><br>
+<a href="https://www.ducksters.com/science/chemisrty/silver.php">Ducksters</a><br>
+<a href="https://canadianbullion.ca/blog/top-5-common-uses-of-silver/">Top5CommonUsesofSilver</a><br>      
+       <html>
+       <title>sodium</title>
+      
+     <style>
+      
+          body {
+    
+          background-color: pink;
+	
+          }
+ 
+     
+     </style>  
+
+               <h1> sodium</h1>
+         
+    <body>
+              <h2>Table of contents</h2>
+               <li>element name is Sodium</li>
+                   </h2>
+                      <li>symbols</li>
+                      <li>atomic number</li>
+                      <li>pictures</li>
+                      <li>properties</li>
+                   
+         </body>
+         <p> sodium is a gas if you add water it meltes so sodium can be liquid too.</p>
+                   
+
+         <p> The periodic table are also known as the periodic table of elements is organized so scientists can quickly discern the properties of individual elements. 
+         This periodic table of the elements with name atomic number symbol and mass is colours.</p>
+
+        <p> Sodium is a chemical element with the symbol Na and atomic number
+         11. It is a soft, silvery-white, highly reactive metal. 
+         Sodium is an alkali metal, being in group 1 of the periodic table, because it
+         has a single electron in its outer shell, which it readily donates, creating 
+         a positively charged the Na+ cation. </p>
+
+        </body>
+
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjTQ5Y7Fc8YOQudkwB_w-38N_gbb9UO2UoVw08kHhpda8EGO8mg">
+          >
+
+
+         <img src="https://news.uoit.ca/archives/2018/10/images/news_thumbnail_sodium.jpg"width= "400" length= "400"><br>
+
+
+       <smallar img src=">
+
+           <h2> what sodium can do   </h2>
+          <p>By means of the sodium-potassium pump, living human cells pump
+            three sodium ions out of the cell
+            in exchange for two potassium ions pumped in; comparing ion 
+            concentrations across the cell membrane,
+            inside to outside, potassium measures and sodium,
+            about 1:10. In nerve cells, the electrical charge across 
+            the cell membrane enables transmission of the nerve impulse—an 
+            action potential—when the charge is dissipated. </p>
+
+         <a href="<https://www.google.com/search?rlz=1C1GCEA_enAU853AU853&q=sodium&spell=1&sa=X&ved=0ahUKEwio1uvGzerjAhWYb30KHQ_MCwYQBQgsKAA&biw=1366&bih=657">my link</a>
+         </body>
+
+         </html>
+
+
+
+
+
+
+
+
+
+
+
+ 
+<html>
+
+      <head> 
+           <title>Strontium</title>
+     </head>
+     <h1>The Element Strontuim </h1>
+     <h2>All About The Element Strontium </h2>
+     <h4>Table of Contents </h4>
+     <ul> 
+     <li> All about the element</li>
+     <li> Who, When and Where the element was discovered </li>
+     <li>The common uses of the element</li> 
+     <li>The properties of the element</li>  
+     <li>Picture of the element</li> 
+     <li> A poem about the element</li> 
+     <li> Some Weird/Bizarre facts about the element </li> 
+     </ul>
+<style>
+
+
+h3 {         
+         
+              
+                font-style: oblique;
+                color:rgb(252, 247, 248);
+            } 
+
+    
+h1 { 
+       
+                font-style: oblique;
+                color:rgb(252, 247, 248);
+                
+            } 
+            
+         body {
+            background-color: rgb(222, 20, 54);
+        }
+    </style>
+ 
+
+      <img src="https://ak5.picdn.net/shutterstock/videos/1006664185/thumb/5.jpg">
+     
+<body>
+<h1> All about The Element</h1>
+<p> Strontium is the <strong>38th</strong> element of <strong>the Periodic table</strong>. The symbol representing Strontium is <strong>Sr</strong>. Strontium is a <strong>pale yellow</strong>, <strong>silver-white</strong> colour.It has three <strong>allotropic crystalline</strong> forms and in its <strong>physical</strong> and <strong>chemical</strong> properties it is similar to <strong>calcium</strong> and <strong>barium</strong>.
+    The <strong>atomic number</strong> for Strontium is <strong>38</strong> and the <strong>atomic</strong> <strong>weight</strong> is <strong>87.62.</strong> The <strong>melting point</strong> for Strontium is <strong>1050 K (777�C or 1431�F)</strong> and it's <strong>boiling point</strong> is <strong>1655 K (1382�C or 2520�F)</strong>. Strontium commonly occurs in <strong>nature</strong>, being the <strong>15th</strong> most abundant element on <strong>Earth</strong>.</p>
+   <img src="https://t4.ftcdn.net/jpg/01/63/79/61/240_F_163796113_edrTcuaU8KE9VYZ8RoO61rpJQmCouYYP.jpg">
+   <h1> Who,When and Where the element was discovered</h1>
+    <p> Strontium was <strong>discovered</strong> in <strong>1790</strong> by <strong>two men</strong> who were, <strong>Adair Crawford</strong> and <strong>William Cruickshank</strong>.Adair Crawford was an <strong>Irish Chemist</strong> who was studying <strong>mineral witherite</strong> at the time of his <strong>discovery</strong>. 
+        When he mixed <strong>witherite</strong> with <strong>drochloric acid</strong>, he did not get the result he was expecting. He assumed he had that he might have done something wrong but wasn't upset because this was a <strong>new discovery</strong> he had made. He decided to name the element <strong>Strontium</strong>. The element <strong>Strontium</strong> was <strong>discovered</strong> in <strong>Scotland</strong>. </p>
+        
+<img src= "data:image/jpeg;base64,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"> 
+
+<h1> The Common Uses Of The Element </h1>
+<p> Strontium is <strong>best</strong> known for the <strong>beautiful</strong> reds in the <strong>fireworks</strong>. And is also knowns for <strong>producing ferrite magnets</strong> and <strong>refining zinc</strong>.<br> 
+   Strontium's <strong>dominan</strong>t use is currently in the <strong>production</strong> of <strong>television cathode tubes</strong>, where it <strong>prevents</strong> the <strong>emission</strong> of <strong>X-rays</strong>. </p>
+
+<h1> A Poem About The Element Strontium </h1>
+    <p> Strontium is an element that creates <strong>fireworks</strong>, <br>
+        I don't know who they do it, I don't know how it <strong>works</strong><br>
+        Strontium is made out of minerals,<br>
+        And when they create <strong>fireworks</strong>,<br>
+        It becomes a <strong>miracle</strong>. </p> 
+<h1> Weird/Bizarre Facts About The Element Strontium</h1> 
+  <ul> 
+  <li> Strontium was named after Strontian, and a small town in Scotland. </li>
+  <li> Strontium must be out of contact from water and air because it reacts vigorously with water and quickly tarnishes in air.</li>
+  <li> Because of the way it reacts with air and water, strontium only exists in nature when combined to form minerals. </li>
+  <li> Strontium is an alkaline earth metal that is even softer than calcium. </li> 
+  <li> Around 300,000 tons of strontium are produced globally each year.</li>
+  </ul>
+  
+   
+  <h1>Bibliography: </h1> 
+ 
+    <a href="www.webelements.com">webelements</a><br>
+    <a href="https://education.jlab.org/itselemental/ele038.html">itselemental</a><br>
+    <a href="http://www.rsc.org/periodic-table/element/38/strontium">periodic-table</a><br> 
+    <a href="https://en.wikipedia.org/wiki/Strontium">wikipedia</a><br> 
+
+   
+ 
+ 
+<html>
+    <head>
+         <title>  All About The Element Sulfur</title> 
+	 <style>
+        
+         
+        h1 {
+            color: rgb(122, 117, 18);
+         }
+
+         body {
+            background-color: rgb(229, 250, 108);
+        }
+         h1 {
+         font-family: broadway;
+         }
+
+        </style>
+    </head>
+   <body>
+        <h1>All About The Element Sulfur
+
+        <h2>Table Of Contents</h2>
+           <ul>
+              <li>Symbol</li>
+              <li>Atomic number</li>
+              <li>Who?Where?When?Was it discovred?</li>
+              <li>A poem</li>
+              <li>Bizarre facts</li>
+              <li>A list of common uses</li>
+              <li>Properties</li>
+              <li>Bibliography</li>
+              <li>Pictures</li>
+
+          </ul>
+
+              <h2>Symbol & Atomic Number</h2>
+              <p> Today ill be talking about the element SULFUR, sulfurs symbol is <strong> S </strong> and its atomic number is 16.</p>
+              <img src="https://periodictable.com/Samples/NativeSulfur/s9s.JPG"><br>
+             
+             
+
+              <h2>Properties solid, liquid or gas</h2
+              <p>Sulfur is an unscented and brittle solid element, it is insoluble in water and soluble in carbon disulifide. In every state wether solid, liquid or gas elementel sulfur occurs in more than one allotropic form or modification. Which means that it is solid element,unless it's melted, it'll turn into a red liquid.</p>
+              
+              <h2>What does it look,smell and feel like?</h2>
+              <p>Sulfur can occur in many different forms of the color yellow,sulfur is known to have some of the most unique features. Samples of sulfur are very soft, they also have a low specifec gravity, so if you hold it, it'll be light,theyre also very light for thier size. Pure sulfur has no smell the stink that may come from the sulfur, comes from the compounds that it contains.  <br><br>
+             
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQayKI5aH18v2HE5VP8hK-0Vyj3NsMwkg0sKWjOE4ecFZeuF9xfBA"><br>
+
+             <h2>Melting Points and Boiling Points,Metal Or Not?</h2>
+             <p>Sulfurs boiling points are 444.6�C and its melting points are 115.2�C. And Sulfur is<strong> not</strong> a metal.</p>
+
+             <h2>Who?When?And where was <strong>Sulfur</strong> dicovred?</h2>
+             <p>The credit for dicovering the elemnt sulfur is given to Hennig Brand (1669),however it was recognised by Antoine Lavoiser 1777. But scholars say that there was no person responsible for discovering the element sulfur, because it was used in ancient times.
+                Even though the use of the element sulfur was quite widespread among the alchemists since ancient times, it was in the year 1777,when Antoine Lavoiser, an investor and adminstraitor of a bank in France, convinced the world that the element sulfur is not a compound but an element. When Sulfur is burned, it melts down into a red liquid. 
+                It's not surprising that the Romans and Greeks were so interested by sulfur.
+
+                With the advent of industrial revolution, the demand for sulfur increased alot across the world , espescially in the european continent. This natraul element (sulfur) is found only in a few areas in the world.</p>
+
+             <img src="https://www.irex2world.com/files/117/product/b3eJg15AOv4sX46mnhYD_thumb.jpg"><br>
+
+             <h2>Wierd Bizarre Facts About Sulfur</h2>
+              <p>1. The fist wierd bizzare fact about sulfur is that it turns blue when it's burning.</p>
+              <img src="https://withlocals-com-res.cloudinary.com/image/upload/w_750,h_424,c_fill,g_auto,q_auto,dpr_1.0,f_auto/5105f36daf0e3e7b14b597cbd4be0df8"><br>
+            
+             
+               <p>2.Sulfur was surprisingly mentioned in the torah and the bible,more than three times.</p>
+               <img src="https://www.ucg.org/files/styles/full_grid9_breakpoints_theme_top_hat_wide_1x/public/image/article/2018/01/05/can-we-believe-the-bible.jpg?itok=gFGC5fuB&timestamp=1515179232"><br>
+
+               <p>3.Sulfur mixed with iron looks like gold, In fact they they call it 'fools gold' because many people used to find such rocks and believed them  to be real gold.</p>
+               <img src="https://image.shutterstock.com/image-photo/gold-nugget-grains-isolated-on-260nw-733733836.jpg"><br>
+
+               <p>4.Sulfur has been used as an ingrediant in mutiple medicenes,particurally those to cure skin diseases,due to the elements ability to kill bacteria.</p>
+
+               <h2>A Poem About Sulfur</h2>
+               <br>Sulfur is yellow</br>
+               <br>It's atomic number is 16</br>
+               <br>And it's chemical symbol is s</br>
+               <br>Yellow brmistone,very reactive</br>
+               <br>But it's properties are very unattractive</br>
+               <br>When you combine it with hydrogen it kills</br>
+               <br>Sulfur is boring<br>
+               <br>As it has no discoverer</br>
+               <br>Sulfur is a mystery</br>
+               <br>As it has no history</br> 
+ 
+               <h2>A list Of Common Uses</h2>
+               <p>1.Powdered sulfur is found in lotions and skin cream ingrediants. Sulfur is part of many creams and lotions.</p> 
+               <img src="http://www.wmprocess.com/images/content/inner-pages/creams-and-lotions.jpg"><br> 
+
+               <p>2.Sulfur can also actually be found in water mineral springs and Epsom salts.</p>
+               <img src="https://wholebodyhealing.com/wp-content/uploads/2015/01/EPSOM-SALTS-22KG50LBS.jpg"><br>
+              
+               <p>3.Sulfur is also in many medicenes it mostly helps in skin diseases.</p>
+               <img src="https://qph.fs.quoracdn.net/main-qimg-862db095d770b2307fbb2b39635c643a.webp"><br>
+
+               <p>4.There is also litle parts of sulfur in bar soaps.</p>
+               <img src="https://1r87ax3wr4g935h4ct3eek8j-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Bar-Soap-Group-300.jpg"><br>
+
+               <p>5.Fireworks also contain sulfur,fireworks and fire crackers are filled with gunpowder and one of the main ingrediants in gun powder is sulfur.</p>
+               <img src="https://images.theconversation.com/files/281623/original/file-20190627-76705-1uxqb1f.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=496&fit=clip"><br>
+
+
+               <h3>THE END</H3>
+
+             
+
+
+              
+
+
+               <h3>Bibliography</h3>  
+
+               <a href="http://www.chem4kids.com/files/elements/016_speak.html"Chem4kids><a><br>
+               <a href="https://sites.google.com/site/elementsulfur/additional-information-about-sulfur/interesting-facts">InterestingFacts</a><br>
+               <a href="http://www.softschools.com/facts/periodic_table/sulfur_facts/190/">PeriodicTable</a><br>
+               <a href="https://www.thoughtco.com/interesting-facts-about-sulfur-4051032">FactsaboutSulfer</a><br>
+               <a href="https://education.jlab.org/itselemental/ele016.html">ItsElement</a><br>
+               
+	</body>
+
+
+</html>
+
+<html>
+<head>
+
+<style>
+
+body {
+background-color rgb: (23, 124, 27);
+}
+#111 
+{ font-Bold;
+}
+
+
+</style>
+</head>
+
+<body>
+
+<h1> <strong>The Element Titanium  </strong></h1>
+
+<P> <strong>This Website will be talking about the element Titanium, here you will find many of the questions that you may be asking.
+some of the questions you may be asking like, what does Titanium smell like? What is its melting point? Or even how does
+it feel like? If your intrested in Titanium than this website is for you! </strong></p>
+
+  <h1> <strong> Basic Info About Titanium: </strong> </h1>
+<p> Titanium is a strong metal that does necessarily carry alot of mass. This elements edges are sharp and sometimes can be rough.
+Titanium can be used for many things such as making jets, making heavy planes and even combining it with other materials. This is
+juts a brief explination of what Titanium basically is.</p>
+
+<table>
+<tr>
+<th> Name of element</th>
+
+<th>Symbol</th>
+
+<th>Atomic number</th>
+
+<th>Property</th>
+</tr>
+<tr>
+<td>Titanium</td>
+ 
+<td>Ti</td>
+
+<td>22</td>
+
+<td>Solid</td>
+</tr>
+
+</table>
+
+
+<table>
+<tr>
+
+
+<th>What does Titanium feel like?</th>
+
+</tr>
+<tr>
+
+
+
+
+
+
+<td>Titaniums surface is rough when it gets extracted right from our beloved earth and right from the beatiful soil that was produced.
+When they transport it to the factories they use sand paper to smoothen the material than the surface will be very smooth and not rough.</td
+
+
+                                                           <strong> <small>What does Titanium look like?<small> </strong>
+
+ <p>Titanium has a silverish colour with rough spikey edges and a crooked surface.<strong>Note!(This form is only when found raw from the ground not when smoothened)</p></strong>SSS
+
+
+
+<table>
+<tr>
+<th>What does Titanium smell like?</th>
+<th>Is Titanium a metal?</th>
+<th>What is Titnaiums boiling point?</th>
+
+</tr>
+<tr>
+
+<td>Titanium is odourless,In other words it has no smell.</td>
+<td> Titanium certainly is a type of metal </td>
+<td>Titaniums boiling point stands fairly high at 3,000 celsius.</td>
+
+</tr>
+</table>
+
+<h1>Who? Where? When? was Titanium discovered?<h1>
+
+ <small> <p>Titanium was discovered by William Gregor in 1791 in Cornwall, great Britian.<p> <small>
+
+
+
+
+<center><img src="http://www.whodiscoveredit.net/wp-content/uploads/2011/11/Titanium-Discovered-By-William-Gregor.jpg" width="203"></center>
+
+
+
+
+
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Titan-crystal_bar.JPG/220px-Titan-crystal_bar.JPG" width="203"></center>
+
+
+
+
+
+
+
+
+
+
+
+
+<strong>Poem:<strong>
+<p>Titanium is light Titanium is Strong<br>
+Titanium is rough but also very tough<br>
+Titanium is silver and gray<br>
+It is pure as its from nature<br>
+Its light as a feather<br>
+And stronger than gold<br>
+It can be used for making planes<br>
+It can be used for making bikes<br>
+It has so many uses its so bright<br>
+every poem has an end<br>
+this one shall have one too<br>
+But dont worry i might have a part 2<br></p>
+
+
+
+
+
+
+
+<strong>Common Uses for Titanium:<strong>
+
+ <p>Titanium can be used for many things such as making spaceships, Race bikes, jets and even simply a golf club.</p> 
+
+
+<strong> Bizzare Fact: <strong>
+
+<p> A pure sample of Titanium was not outlying until 1910 because of its amazing ability to attract to other elements. </p>
+
+
+
+
+
+<strong>Bibliography:<strong>
+
+<a href="https://www.ducksters.com/science/chemistry/titanium.php">ducksters.com</a href>
+
+<a href="http://www.softschools.com/facts/periodic_table/titanium_facts/193/">softschools.com</a href>
+
+<a href="https://www.worldofchemicals.com/98/chemistry-articles/william-gregor-discoverer-of-titanium-metal.html">worldofchemicals.com</a href>
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ <img src="http://www.williamhenry.com/media//materials/Materials-Titanium.jpg" alt="Rabbit with lop ears in barn" width="203"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+</html>                                                                                                                      
+<html>
+    <head>
+        <title>Lets Learn About The Element Yttarium</title>
+        <style>
+         h1 {
+                          font-family: Verdana, Geneva, sans-serif;
+                          font-size: 50px;
+                          word-spacing: 0.6px;
+                          font-weight: normal;
+                          text-decoration: none;
+                          font-style: normal;
+                          font-variant: normal;
+                          text-transform: none;
+                          color: #131313;
+                          background: 86929E;
+                          letter-spacing: .15em;
+                          text-shadow: 1px -1px 0 #767676, -1px 2px 1px #737272, -2px 4px 1px #767474, -3px 6px 1px #787777, -4px 8px 1px #7b7a7a, -5px 10px 1px #7f7d7d, -6px 12px 1px #828181, -7px 14px 1px #868585, -8px 16px 1px #8b8a89, -9px 18px 1px #8f8e8d, -10px 20px 1px #949392, -11px 22px 1px #999897, -12px 24px 1px #9e9c9c, -13px 26px 1px #a3a1a1, -14px 28px 1px #a8a6a6, -15px 30px 1px #adabab, -16px 32px 1px #b2b1b0, -17px 34px 1px #b7b6b5, -18px 36px 1px #bcbbba, -19px 38px 1px #c1bfbf, -20px 40px 1px #c6c4c4, -21px 42px 1px #cbc9c8, -22px 44px 1px #cfcdcd, -23px 46px 1px #d4d2d1, -24px 48px 1px #d8d6d5, -25px 50px 1px #dbdad9, -26px 52px 1px #dfdddc, -27px 54px 1px #e2e0df, -28px 56px 1px #e4e3e2;
+ }
+          body {
+                           background-color: 86929E ;
+                           }
+         .AllTheFonts{
+                           color: 4A4A4A;
+                           font-family: Verdana, Geneva, sans-serif;
+                           font-size: 17px;
+                           }
+table.steelBlueCols {
+  border: 4px solid #555555;
+  background-color: #555555;
+  width: 400px;
+  text-align: center;
+  border-collapse: collapse;
+}
+table.steelBlueCols td, table.steelBlueCols th {
+  border: 1px solid #555555;
+  padding: 5px 10px;
+}
+table.steelBlueCols tbody td {
+  font-size: 12px;
+  font-weight: bold;
+  color: #FFFFFF;
+}
+table.steelBlueCols tr:nth-child(even) {
+  background: #398AA4;
+}
+table.steelBlueCols thead {
+  background: #398AA4;
+  border-bottom: 10px solid #398AA4;
+}
+table.steelBlueCols thead th {
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-align: left;
+  border-left: 2px solid #398AA4;
+}
+table.steelBlueCols thead th:first-child {
+  border-left: none;
+}
+
+table.steelBlueCols tfoot td {
+  font-size: 13px;
+}
+table.steelBlueCols tfoot .links {
+  text-align: right;
+}
+table.steelBlueCols tfoot .links a{
+  display: inline-block;
+  background: #FFFFFF;
+  color: #398AA4;
+  padding: 2px 8px;
+  border-radius: 5px;
+    float: left;
+}
+.Pics{
+border: 9px outset #1C6EA4; 
+border-radius: 0px 40px 0px 40px;
+width: 203;
+margin: 2px 20px 10px 0;
+}  
+.Fancy{
+font-family: 'Cinzel', serif;
+font-size: 17px;
+text-transform: uppercase;
+}
+        </style>
+    </head>
+
+<script>
+function date_time() {
+    var date = new Date();
+    var am_pm = "AM";
+    var hour = date.getHours();
+    if(hour>=12){
+        am_pm = "PM";
+    }
+    if (hour == 0) {
+        hour = 12;
+    }
+    if(hour>12){
+        hour = hour - 12;
+    }
+    if(hour<10){
+        hour = "0"+hour;
+    }
+
+    var minute = date.getMinutes();
+    if (minute<10){
+        minute = "0"+minute;
+    }
+    var sec = date.getSeconds();
+    if(sec<10){
+        sec = "0"+sec;
+    }
+
+    document.getElementById("time").innerHTML =  hour+":"+minute+":"+sec+" "+am_pm;
+}
+</script>
+        
+        <center><h1>Lets Learn About The Element Yttrium</h1></center>
+        <br><br>
+        <h2 class="AllTheFonts">Table of contents</h2>
+         <table>
+            <thead>
+                <tr>
+                    <th class="AllTheFonts">Subject</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="AllTheFonts"><a  href="#aboutyttrium">1. About Yttrium</a></td>
+                </tr>
+                <tr>
+                    <td class="AllTheFonts"><a href="#T2">2. Who? Where? When was it discovered?</a></td>
+                </tr>
+                <tr>
+                    <td class="AllTheFonts"><a href="#T3">3. Some uses for it</a></td>
+                </tr>
+                <tr>
+                    <td class="AllTheFonts"><a href="#T4">4. Some weird/bizare facts </td>
+                </tr>
+                <tr>
+                    <td class="AllTheFonts"><a href="#T5">5. A small pun </td>
+                </tr>
+                <tr>
+                    <td class="AllTheFonts"><a href="#T6">6. Bibliography </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h3 class="AllTheFonts" id="aboutyttrium">About Yttrium</h3>
+        <p><strong><u>Info</u><strong><br>
+              The element Yttrium is a solid rare earth metal. Yttrium is silvery white, moderatly soft, ductile metal.</p>
+        <img class="Pics" src="https://periodictable.com/Samples/039.11/s9s.JPG"/>
+        
+        <table class="steelBlueCols">
+        <thead>
+        <tr>
+        <th>Subject</th>
+        <th>Info</th>
+        </tr>
+        </thead>
+        <tbody> 
+        <tr>
+        <td>Name</td><td>Yttrium</td></tr>
+        <tr>
+        <td>Symbol</td><td>Y</td></tr>
+        <tr>
+        <td>Atomic Number</td><td>39</td></tr>
+        <tr>
+        <td>State/propertie</td><td>Solid</td></tr>
+        <tr>
+        <td>Melting Point</td><td>1522�C, 2772�F, 1795 K</td></tr>
+        <tr>
+        <td>Boiling Point</td><td>3345�C, 6053�F, 3618 K</td></tr>
+        </tbody>
+        </tr>
+        </table>
+
+        <h4 class="AllTheFonts" id="T2">Who? Where? When was it discovered?</h4>
+        <p>
+        In 1787, a man called "Carl Arrhenius"<br> <img class="Pics" src="http://www.sibelius.fi/kuvituskuvat/axel_carpelan.jpg"/><br>
+came pass by an unusual black rock at Ytterby, near Stockholm in an old quarry. He thought he had found a new tungsten mineral but he actually found Yttrium and passed the specimen over to Johan Gadolin based in Finland. In 1794, Gadolin announced that it contained a new 'earth'. It was called an� earth� because it was yttrium oxide, Y2O3, which could not be reduced further by heating with charcoal.
+        </p>
+        <h4 class="AllTheFonts" id="T3">Some uses for it</h4>
+<p>There are many uses for yttrium and here is some:</p> 
+<br>
+<p>It is used in lasers that can cut through metals.</p><br>
+<img class="Pics" src="http://www.rentapen.com/wp-content/uploads/2012/01/Frame-Grab-03.jpg"/>
+<p>Yttrium oxide is to make glass for camera lenses to make them heat and shock resistance by adding yttarium oxide to the glass.</p><br>
+<img class="Pics" src="https://www.lowyat.net/wp-content/uploads/2017/10/casio-gze1-770x487.jpg"/>
+<p>The radioactive isotope yttrium-90 has medical uses. It can be used to treat some cancers, such as liver cancer.</p><br>
+<p>Yttrium is often used as an extra reinforcements in alloys. It increases the strength of aluminium and magnesium alloys.</p><br>
+        <h5 class="AllTheFonts" id="T4">Some weird/bizare facts</h5>
+        
+        <P>Did you know that radars reflect the use of yttrium in radar technology lie how it is used to provide the red color <br> for early color TV screens such as the reason for the background which echoes the Warner Bros. �That�s all Folks!� cartoon splash screen.<br>  
+        Did you know that Yttrium is named after Ytterby, Sweden.<br>
+        Did you know that Carl arrphenius found Yttarium but Johan Gadolin discovered yttarium.<br>
+        Did you know that Yttrium metal is produced by reducing yttrium fluoride with calcium metal.</P>
+        
+<h6 class="Fancy" id="T5">A small pun</h6>
+<P class="Fancy">
+A rare earth metal found in the deep earth <br>
+The name is Yttrium shiny and bright <br>
+I am so famous that i am on Tv <br>
+They sponsor me on Warner Bros <br>
+How cool am i <br>
+How cool am i <br>
+You better have some decent money or i wouldn't be coming soon <br>
+My schudele is busy when you are ready tell me fast <br>
+so good bye for now snd don't forget i shining star <br> 
+</p>
+<h7 class="AllTheFonts" id="T6">Bibliography</h7><br>
+<a href="http://www.rsc.org/periodic-table/element/39/yttrium">ROYAL SOCIETY OF <strong>CHEMISTRY<strong></a><br>
+<a href="https://www.britannica.com/science/yttrium">ENCYCLOPAEDIA BRITANNICA</a>
+           </body>
+</html>
+<!DOCTYPE html>
+<html>
+      <head>
+        <title>Aluminium</title>
+      </head>
+<style>
+body {
+ background-image: linear-gradient(to bottom right, gray, gray);
+}
+
+
+
+</style>
+      <body>
+<style style="text/css">
+.marquee {
+ height: 50px;	
+ overflow: hidden;
+ position: relative;
+}
+.marquee p {
+ position: absolute;
+ width: 100%;
+ height: 100%;
+ margin: 0;
+ line-height: 50px;
+ text-align: center;
+ 
+ -moz-transform:translateX(100%);
+ -webkit-transform:translateX(100%);	
+ transform:translateX(100%);
+ 	
+ -moz-animation: scroll-left 15s linear infinite;
+ -webkit-animation: scroll-left 15s linear infinite;
+ animation: scroll-left 15s linear infinite;
+}
+@-moz-keyframes scroll-left {
+ 0%   { -moz-transform: translateX(100%); }
+ 100% { -moz-transform: translateX(-100%); }
+}
+@-webkit-keyframes scroll-left {
+ 0%   { -webkit-transform: translateX(100%); }
+ 100% { -webkit-transform: translateX(-100%); }
+}
+@keyframes scroll-left {
+ 0%   { 
+ -moz-transform: translateX(100%); 
+ -webkit-transform: translateX(100%);
+ transform: translateX(100%); 		
+ }
+ 100% { 
+ -moz-transform: translateX(-100%); 
+ -webkit-transform: translateX(-100%);
+ transform: translateX(-100%); 
+ }
+}
+</style>
+
+<script
+>
+    function ShowRedo() 
+{
+        document.getElementById("image").src = "https://media.sciencephoto.com/image/c0397642/800wm/C0397642-Aluminium,_chemical_symbol.jpg";  
+    }
+
+    function ShowUndo() 
+{
+        document.getElementById("image").src = "https://cdn.macrumors.com/article-new/2019/01/ios13icon.jpg?retina"; 
+    }
+</script>
+<h1 id="Aluminum">Aluminum</h1>
+<img alt="" src="https://www.thebalance.com/thmb/oqUIFmnrybKhYqY9V6fgOBAhxQo=/300x200/filters:saturation(0.2):brightness(10):contrast(5):no_upscale()/Al-ingots2-Dubal-56a613d25f9b58b7d0dfcc06.jpg" 
+            style="height: 300px; width: 300px" id="image" alt="Aluminum" /></p>
+
+<table>
+<thead>
+<tr>
+<th>Table Of Contents</th>
+<th></th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+
+
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td>All About Aluminum</td>
+<td><a href="#All About Aluminum">1</a></td>
+</tr>
+<tr>
+<td>Who? Where? When was it discovered?</td>
+<td><a href="#Who? Where? When was it discovered?">2</a></td>
+</tr>
+<tr>
+<td>A Poem And Pun About Aluminum</td>
+<td><a href="#A Poem And Pun About Aluminum">3</a></td>
+</tr>
+<tr>
+<td>List Of Common Uses</td>
+<td><a href="#List Of Common Uses">4</a></td>
+</tr>
+<tr>
+<td>Interesting Fact About Aluminum</td>
+<td><a href="#Interesting Fact About Aluminum">5</a></td>
+</tr>
+<tr>
+<td>Bibliography</td>
+<td><a href="#Bibliography">6</a></td>
+</tr>
+
+</tbody>
+</table>
+      <h2 id="All About Aluminum"> <font size="+1">All About Aluminum</font></h2>
+      <p><strong>Aluminum</strong> is a silver gray metal that has a chimical symbol of Al and an atomic number of 13. Aluminium is a silvery-white<br> metal that has a similar look to that of silver. Aluminum has a soft texture and is light weighted doctile metal. Aluminum is<br> odorless unless it has been coated with something. Aluminiums melting point is 660.3°C.</p>
+      <h3 id="Who? Where? When was it discovered?"> <font size="+1">Who? Where? When was it discovered?</font></h3>
+<img style = "float: left; margin: 2px 20px 10px 0; ; " src="https://upload.wikimedia.org/wikipedia/commons/d/df/HC_%C3%98rsted.jpg"  alt="Hans Cristian Orsted" width="200" height="200"  /> 
+<p  style="text-align:left";><br><br><br><br>Scientists exp+ected that an unknown metal existed but they had no way to extract it until 1825 when Hans Christian Oersted,<br> a Danish chemist in Denmark, was the first to produce tiny amounts of Aluminum. Two years later, Friedrich Wöhler,<br> a German chemist, developed a different way to obtain aluminum. By 1845, he was able to make samples of aluminum<br> big enough to determine it's basic properties. Wöhler's method was improved in 1854 by Henri Étienne Sainte-Claire<br> Deville, a French chemist. Deville's process allowed the production of aluminum to grow.<br><br><br><br><br> </p>
+<h4 id="A Poem And Pun About Aluminum"> <font size="+1">A Poem And Pun About Aluminum</font></h4>
+<p><strong>Poem</strong><br>
+Aluminum can be powerful<br>
+Aluminum can be wonderful<br>
+As it can be a danger<br>
+Can be a changer<br>
+Cutting your finger on a Can<br
+As though not a plan<br>
+The color is silver<br>
+Your blood will run like a river<br>
+<strong>Pun</strong><br>
+Can 1: <strong>Can</strong> you please open the coke for me?<br>
+Can 2: Well the question is <strong>Can</strong> I.</p>
+
+<img style = "float: left; margin: 2px 20px 10px 0; ; " src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Egyptair.a330-200.su-gce.arp.jpg/200px-Egyptair.a330-200.su-gce.arp.jpg"  alt="Aeroplane" width="200" height="200"  />
+<h5 id="List Of Common Uses"> <font size="+1">List Of Common Uses</font></h5>
+<p>
+<ul>
+<li>Cans</li>
+<li>Foils</li>
+<li>Kitchen Utensils</li>
+<li>Window Frames</li>
+<li>Aeroplane Parts</li>
+</ul><br><br><br>     </p>
+<h6 id="Interesting Fact About Aluminum"> <font size="+1">Interesting Fact About Aluminum</font></h6>
+<p>Aluminum was once more precious than gold and silver and even, Napoleon III served dinners on aluminum plates.</p>
+<h7 id="Bibliography"> <font size="+1">Bibliography</font></h7>
+<ul>
+     <li><a href="https://en.wikipedia.org/wiki/History_of_aluminium">History Of Aluminum</a></li>
+     <li><a href="https://en.wikipedia.org/wiki/Aluminium">Aluminum</a></li>
+     <li><a href="https://tampasteel.com/10-amazing-facts-about-aluminum/">Interesting Facts About Aluminum</a></li>
+</ul>
+<h8> Back To Top</h8>
+<ul>
+     <li><a href="#Aluminum">Aluminum</a></li>
+</ul>
+
+</body>
+</html>
+
+<html>
+<head>
+<title> Science assignment about element arsenic </title>
+
+
+   <style>
+         
+         p {
+            color: rgb(6, 66, 156);
+        }  
+         h2 {
+            color: rgb(55, 5, 102);
+        }  
+        
+        li {
+            color: rgb(11, 48, 77);
+        }  
+        h1 {
+            color: rgb(0, 0, 0);
+        }  
+        
+        body {
+            background-color: rgb(193, 207, 191);
+        }
+            
+        </style>
+</head>
+
+
+<body>
+<h1> Science Assignment About Element Arsenic </h1>
+
+<h2>Table of contents</h2>
+<ul>
+<li>Name of the element </li>
+<li>Symbol </li>
+<li>Atomic number </li>
+<li>Properties, what does it look smell,and feel like.what is it's boiling and melting point is it a metal?. </li>
+<li>Who?, where?, when was it discovered?. </li>
+<li>Poem or a pun about your element. </li>
+<li>A list of comman uses. </li>
+<li>Find weird facts.</li>
+<li> Include pictures of the element which the element is used for.</li>
+</ul>
+
+<img     src="http://www.knowledgedoor.com/2/elements_handbook/arsenic_components/navigator_highlighted_periodic_table.png"><br>
+        
+
+
+
+<h2>basic information about the element Arsenic </h2>
+<p>The element that I am going to use from the periodic table is Arsenic.The symbol is AS, and the atomic number is 33.
+the property of Arsenic is solid, ordinary Arsenic is grey,<br>thou there are also yellow ones which is more toxic and poisonouse.</p>
+<p>So how is yellow Arsenic made?<br> well regular Arsenic converts into Yellow Arsenic when put in light room temperature.<br>
+when it's heated it smells like garlic,
+it is highly dangerouse if you attempt to touch it, you can breath in the air which contains Arsenic dust it could lead to certain death.</p>
+ <p>The boiling point of Arsenic is 613 degree c, and the melting point is 817 degre c.<br>Albertus Magnus found the element Arsenic 
+in 1250 A.D WHERE WAS IT FOUND: information has not been found.</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AlbertusMagnus.jpg/220px-AlbertusMagnus.jpg"><br>
+
+<h1>My poem about the element Arsenic</h1>
+<h2><p>My element is venomouse,<br>
+very deadly and very poisonous.<br>
+Albert Magnus found the element,<br>
+then he became popular, and was called the intelligent.</p></h2>
+
+<img src="https://hips.hearstapps.com/pop.h-cdn.co/assets/17/25/1600x800/landscape-1498064441-poison.jpg?resize=480:*"><br>
+
+<h2>List of common uses</h2>
+<p>Arsenic can be used for many different things, some good and some bad.<br>
+For example it could be used for insecticides meaning insect killers,<br> wood preservations which ensures a long life for the woods.<br>But most shockingly of all it can be used for medicines.The element was used for diseases such as cancer<br>
+and syphilis,in the the 19th century.Arsenic salts were pasted and was used for ulcers and cancers.<br>
+On the bad side it is extremly dangerous.</p>
+
+
+<img src="https://www.dentstal.com/arsenic_paste2.jpg"><br>
+
+
+<h1>Weird Bizarre Facts about the Element Arsenic</h1>
+<p>weirdly some foods that we eat are high in arsenic,<br>thou they dont kill us and that is because they are less toxic but contains outstanding amount of arsenic.<br>
+<h3>eg: Fish, shrimp, shellfish, and other seafood. </h3>
+<img src="https://image.shutterstock.com/image-photo/fresh-seafood-raw-shrimps-squids-260nw-1068231101.jpg"><br>
+<p>There are some certain type of seaweed<br> that contains inorganic arsenic.</p>
+<h3>difference between inorganic arsenic and organic arsenic.</h3>
+<p>Inorganic arsenic is human made and naturally occuring, which could harm our health.</p>
+<p>Organic arsenic is a form of a molecule and has at least one carbon atom.<br>
+Arsenic can kill a person in two to four hours,although victims wre known to procrastinate it unill fornight.<br>
+and for few the misery lasted 24 hours.<br>it is known that 77 million people died from arsenic in Bangladesh, which is<br>
+half the population of my country.
+</p>
+
+<h2>References</h2>
+<a href="https://WWW.dartmouth.edu/~arseniccandyou/food/seafood.html">DartMorth</a><br>
+<a href="www.rsc.org/ periodic-table/element/33/arsenic">periodictable</a><br>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC31911694">bagladesharsenic</a><br>
+
+
+
+
+
+ 
+</body>
+
+
+
+
+
+</html>
+
+
+  <html>
+
+  <head>
+           
+  <h1> All About Chlorine </h1>
+ 
+  <style>              
+  
+  h1 { font-family: times new roman;}
+  
+  h2 { font-family: times new roman;}
+
+  h1 {color: rgb(13, 83, 222);}  
+        
+  body {background-color: rgb(183, 240, 240);}
+            
+  </style>
+  
+  </head>
+           
+  <body>
+
+            
+  <au> <img src="https://www.freedompools.com/FreedomPools/media/Blog/WaterFeatures_720x480.jpg" width="321" length="123">
+
+  <h2> <li> <p> Is chlorine gas, solid or liquid?</h2>
+
+  <p> Chlorine is a gas but it can also be a solid or a liquid but in room temperature it's a gas.
+         
+  <h2><p> What does chlorine look, smell, and feel like?</h2>
+
+  <p> Chlorine is a greenish yellowish gas it smells like bleach it's smell is really strong that it would easily get recognized. You cannot feel chlorine because it is a gas and you can't feel or hold gas. 
+  
+  <au> <img src="https://us.123rf.com/450wm/lkeskinen/lkeskinen1705/lkeskinen170503868/77706644-stock-vector-cartoon-image-of-chemicals.jpg?ver=6" >
+  <h2><p> What is chlorine's boiling and melting point? Is it a metal?</h2>
+
+  <p> Chlorine's melting point is at -155.6 degrees C and it's boiling point is at -100.1 degrees C. it is not a metal.
+
+  <h2><p> Who, where, and when was chlorine discovered?</h2> 
+
+  <p> Chlorine was discovered in 1774 the guy who discovered it was Carl Wilhelm Scheele but chlorine wasn�t an element and it didn�t have a name until 1810 by a guy called Humphry Davy who insisted that is was an element. 
+
+  <li><img src="https://previews.123rf.com/images/newdesignillustrations/newdesignillustrations1902/newdesignillustrations190210282/125487206-chlorine-stamp-seal-watermark-with-grunge-texture-designed-with-rounded-rectangles-and-circles-blue-.jpg" width="321" length="123">
+  
+  <h2><p> Poem about chlorine!!!</h2>
+
+  <p> I'm doing an element called chlorine <br>
+  <p> You can find it anywhere, even in an aquamarine<br>
+  <p> The founder of chlorine is the only one Carl 
+  <p> Don't make fun of him whenever he snarls.</p>
+    
+  <au> <img src="https://previews.123rf.com/images/viking75/viking751706/viking75170600026/79965041-chlorine-s-chemical-element-periodic-table-hexagonal-shape-3d-illustration.jpg" width="321" length="123">
+  <au><h2><p> Common uses of chlorine.</h2>
+
+  <h3><p> Chlorine can be used for many stuff like:</h3>
+
+  <li> to treat swimming pools.
+  <li> to make drinking water safe.
+  <li> to make paper. 
+  <li> to make plastic. 
+  <li> to make dyes.  
+  <li> and to make paint. 
+
+  <au><li><img src="https://previews.123rf.com/images/newdesignillustrations/newdesignillustrations1901/newdesignillustrations190112052/126078075-chlorine-seal-watermark-with-grunge-style-blue-vector-rubber-print-of-chlorine-tag-with-grunge-textu.jpg" width="321" length="123">
+
+  <au><h2><p> Bizarre facts about chlorine.</h2> 
+
+  <li><h3><p> Here are some bizarre facts about chlorine:</h3>
+  <li> Chlorine can also be found in foods like: seaweed, tomatoes, lettuce, and more.
+  <li> If chlorine gains an elector it forms something that is called chloride and chloride is really important for the earth. 
+  <li> Chlorine was used in both world war 1 and 2.
+  <li><img src="https://previews.123rf.com/images/alfaolga/alfaolga1710/alfaolga171000101/87679816-food-rich-with-chlorine.jpg" width="321" length="123">
+  <h2><p> Reference</h2>
+<a href="https://en.wikipedia.org/wiki/Chloride">Chlorine</a><br>
+<a href="https://www.quora.com/Is-chlorine-considered-a-solid-liquid-or-gas-and-why">IsChlorineConsideredASolidorLiquidOrGasAndWhy</a><br>
+</body>
+              
+</html>
+
+<html>
+     
+       <head>
+             <title> The Element Gold </title>
+       </head>
+       <body>
+             <h1><strong>The Element Gold</strong>
+                     
+        
+       <style>
+        
+        h1 {
+            color: rgb(214, 183, 28);
+        }  
+        
+        body {
+            background-color: rgb(252, 240, 114);
+        }
+            
+        </style>
+        
+        
+   
+                                                        
+             <h2>Table Of Contents</h2>                                              
+                 <ul>
+                     <li><strong>Symbol</strong></li>
+                     <li><strong>Atomic Number</strong></li>
+                     <li><strong>Properties</strong></li>
+                     <li><strong>Who?Where?When was it discovered</strong></li>
+                     <li><strong>An Acrostic Poem</strong></li>
+                     <li><strong>A List Of Common Uses</strong></li>
+                     <li><strong>A Bizzare Fact</strong></li>
+                     <li><strong>Bibliography</strong></li>
+                     <li><strong>Pictures</strong></li>
+                 </ul>
+
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/330px-Gold-crystals.jpg"><br>
+             <h2>Symbol And Atomic Number</h2>
+             <p><strong> Gold is a chemical element with the symbol Au (from Latin: aurum) atomic number 79, making it one of the higher atomic number elements that naturally occur. In its purest form, it is a bright, slightly reddish yellow, dense, soft, and ductile metal.</strong></p>
+             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX2rQAqGsPAMpJXTr5Mjp2XYfMmDYrhAEUOhaSjl6EJWejEscb">
+             <h2>Properties</h2>
+             <p><strong>1.Gold is a soft metal with a number of interesting physical properties. Gold is both malleable and ductile. Gold is a heavy metal and one gram of gold can be hammered out into a thin sheet of gold a metre in area, and just 230  so thick. Gold leaf is translucent and the transmitted light is greenish blue.</strong></p>
+             <p><strong>2.The Physical properties of Gold are the characteristics that can be observed without changing the substance into another substance. Physical properties are usually those that can be observed using our senses such as color, luster, freezing point, boiling point, melting point, density, hardness and odor.</strong></p>
+             <p><strong>3.They are the characteristics that determine how it will react with other substances or change from one substance to another. Chemical properties are only observable during a chemical reaction.  Substances may be brought about by changes brought about by burning, rusting, heating, exploding.</strong></p>
+             <h2>The Boiling Point</h2>
+             <p><strong>The boiling point of gold is 2,700C.</p></strong>
+             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQZ1_ey31dPLfJdTki4RxwfUsCWaBvkscvSJG02pOLoww-6IJi" width="322" length="124">
+             <h2>The Melting Point</h2>
+             <p><strong>The melting point for gold is 1,064C.</p></strong>
+             <img src="https://i.pinimg.com/originals/e2/60/d4/e260d431cf7aa8045d22558000498944.jpg" width="322" length="124">
+             <h2><strong>Is It A Metal</h2>
+             <p>Gold is a yellow metal which is very expensive for example a gold necklace is for ($13,999.00) and gold is also coins for example a 1 coin.</p></strong>
+             <img src="https://4.imimg.com/data4/FN/RM/MY-5661310/5001-500x500.jpg" width="322" length="124">
+             <h2><strong>The Smell?Look?What does it feel like</strong></h2>
+             <p><strong>Gold smells like metal and it looks like pure light golden yellow. The main thing gold feels like is HEAVY compared to other rocks of a similar size.</strong></p>
+             <h2>Who?Where?When was it discovered</h2>
+             <p><strong>When was Gold first discovered?</strong></p>
+             <p><strong>Many people in California figured out that the first person to find gold was James W. Marshall on January 24, 1848, who saw something shiny in Sutter Creek close to Coloma, California. He had discovered gold when he went over seas and he found it close to the American River.</p>
+             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/James_Marshall2.jpg/330px-James_Marshall2.jpg" width="200" length="80">
+             <p>Who discovered Gold</p>
+             <p>Discovery of Gold, by John A. Sutter - 1848. It was in the first part of January, 1848, when the gold was discovered at Coloma, where I was then building a saw-mill. The contractor and builder of this mill was James W. Marshall, from New Jersey.</p>
+             <img src="https://www.legendsofamerica.com/wp-content/uploads/2017/11/Coloma-CA-300x230.jpg">
+             <p><strong>COLOMA, CALIFORNIA IN 1857</strong></p>
+             <p>Where was Gold discovered</strong></p>
+             <p><strong>History of discovery. The first gold rush in Australia began in May 1851 after prospector Edward Hargraves claimed to have discovered payable gold close to Orange, at a site he called Ophir. Hargraves had been to the Californian goldfields and he learned new techniques such as panning and cradling.</strong></p>
+             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeAiXFZ0FSgLfuqAfJNg_nsyW9oPQ_JqdxII6_u4czSvhgFeRA">
+             <h2>An Acrostic Poem</h2>
+             <h2>Gold</h2>
+             
+                 <p><strong>Gold is the main thing they use for money.</strong></p>
+                 <p><strong>Otherwise, you might say it looks like honey.</strong></p>
+                 <p><strong>Little did you know gold creates many things.</strong></p>
+                 <p><strong>Did you even know that, or did you get a sting.</strong></p>
+    
+             <h2>A List Of Common Uses</h2>
+             <p><strong>1.Jewelry:
+                About 78% of gold consumed each year is made into jewelry. Jewelry is the most common way gold reaches consumers, and has been a primary use for the metal in various cultures. Because of its beautiful and good properties, gold jewelry is an adore that is revered. Especially in India, adorning the body with gold is a way to attract wealth and blessings.</strong></p>
+             <img src="https://www.redwallpapers.com/public/redwallpapers-small-thumb/pendant-chain-gold-jewelry-free-stock-photos-images-hd-wallpaper.jpg" width="322"  length="124">
+             <p><strong>2.Dentistry And Medicine:
+                Gold is considered as the best filling for cavities and crowns, bridges and other orthodontic appliances because the metal is ductile and can easily take shapes. It is also chemically passive and doesn't react easily when missed with other metals. It is also easy to insert and is non-allergic.Dentists have used gold as the best substitute for misplaced/ dislocated teeth for ages.</strong></p>
+             <img src="https://www.sbcgold.com/wp-content/uploads/2012/05/gold-tooth.jpg" width="400" length="190">
+             <p><strong>3.Electronics And Computers:
+                Gold is of the top metals when it comes to being good conductors of electricity. It is able to carry electrical charges easily and because of this property, this metal is found in small portions in many electrical devices like mobile phones. Television sets, GPS devices. It is also sometimes found in computers and laptops for transferring data quickly.</strong></p>
+             <img src="https://www.sbcgold.com/wp-content/uploads/2012/05/gold-cable-connector.jpg" width="400" length="190">
+             <p><strong>4.Medals And Statues:
+                Gold is considered as a highly suspicious and precious metal it is used in the making of winning medals for popular world games, championships and awards. Its beauty holds a permanent place in the human eye. Because of its exceptional magnificence, it is also used in the making of religious statues and Idols.</strong></p> 
+             <img src="https://www.sbcgold.com/wp-content/uploads/2012/05/olympic-gold-medal.jpg">
+             <p><strong>5.Aerospace:
+                In the aerospace industry where  effective technologies are key to survival, gold plays an essential role. Gold is used to lubricate mechanical parts, conduct electricity and coat the insides of space vehicles to protect people.</strong></p>
+             <img src="https://www.sbcgold.com/wp-content/uploads/2012/05/gold-nasa-technology1.jpg" width="390"  length="180">
+             <h2>A Bizarre Fact</h2>
+             <p><strong>1.Gold Facts: Gold is the only metal that is yellow or "golden." Other metals may develop a yellowish color, but only after they have  reacted with other chemicals. Nearly all of the gold on Earth came from meteorites  the planet over 200 million years after it formed.</strong></p>
+             <p><strong>2.Although gold is a heavy, dense metal, it is generally considered non-toxic. Gold metal flakes may be eaten in foods or drinks.</strong></p>
+             <p><strong>3.Nearly all of the gold on Earth came from meteorites that bombarded the planet over 200 million years after it formed.</strong></p>
+             <img src="https://ae01.alicdn.com/kf/HTB1xPxrfBLN8KJjSZFPq6xoLXXaW/Baroque-large-gold-crown-headdress-hair-ornaments-upscale-vintage-red-rhinestone-bridal-jewelry-accessories-wedding-dress.jpg_640x640.jpg" width="300" length="100"><br>
+             <h2>Bibliography</h2>
+             <h2>References</h2>
+             <a href="https://en.wikipedia.org/wiki/Gold">Gold Wikipedia</a><br>
+             <a href="https://www.physicalgold.com/insights/15-uses-gold/">A List Of Common Uses</a><br>
+             <a href="www.sciencekids.co.nz/sciencefacts/metals/gold.html">A Bizzare Fact</a><br>
+             <img src="https://previews.123rf.com/images/rondale/rondale1606/rondale160600197/59611621-thank-you-golden-handwritten-vector-illustration-gold-glitter-brush-pen-lettering-isolated-on-white-.jpg" length="100" width="300">
+
+             
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <meta charset="utf-8">
+        <title>CSS: Selecting by class</title>
+        <style>
+        body {background-color:blue;
+}
+        
+        h2 {
+            color: black;
+        }  
+        
+        #hydrogen {
+            background-color: blue	;
+        }
+        
+        p {
+            color: black;
+        }
+        
+        #hydrogen2 {
+            background-color: blue;
+        }
+        
+        </style>
+    </head>
+    <body>
+
+    <h1>All about Hydrogen!</h1>
+    <img src="https://previews.123rf.com/images/tony4urban/tony4urban1801/tony4urban180100112/93521578-hydrogen-chemical-element-periodic-table-science-symbol.jpg" width="200" lenth="100">
+    <h2 id="hydrogen">Introduction</h2>
+    
+    <p>Hey guys today i will be making a web page about hydrogen.</p>
+    <p>Hope you guys enjoy.
+    <h2>Hydrogen ryhme</h2>
+    
+    <p id="Hydrogen-ryhme">Hydrogen's screaming,  <br>
+I'm number one! <br>
+I got one less proton, <br>
+Than that helium</p>
+    
+    
+    
+    <h3>Top 3 most famous types of Hydrogen</h3>
+    
+    <ol>
+        <li>Oxygen</li>
+        <li>Nitrogen</li>
+        <li>Chlorine</li>
+    </ol>                                                                    
+    
+    
+    </body>
+</html>
+
+<H3>Who? When? was it discovered</h3> 
+<p>Henry Cavendish discovered hydrogen in the year of 1766 but he firstly called it inflammable air but shortly later a man called</p>               
+<p>Antoine Lavoisier gave it the name hydrogen,Henry Cavindish put his infomation in the paper once he finished discovering it.</p> 
+<img src="https://www.butterflyfields.com/wp-content/uploads/2019/06/Henry-Cavendish.png"><img src="https://alphahistory.com/frenchrevolution/wp-content/uploads/2015/04/alavoisier-245x300.jpg">
+
+<h3> what is hydrogen's melting point or boiling point</h3>
+<p>Hydrogen has a melting point of -259.2 and a boiling point of -259.9.
+
+
+<h2>some weird facts about hydrogen</h3>
+<p>did you know that out of 118 elements hydrogen is the lightest element in the periodic table</p>
+<p>and it is a nontoxic, odorless, colorless gas that naturally exists in our Universe.</p>
+ 
+<h3>references</h3>
+<a href = "http://www.softschools.com/facts/periodic_table/hydrogen_facts/177/">hydrogen facts</a href><br>
+
+<a href = "https://education.jlab.org/itselemental/ele001.html">who discoverd hydrogen</a href><br>
+<a href= "https://courses.lumenlearning.com/boundless-chemistry/chapter/hydrogen/"> hydrogen's melting point and boiling point</a href>
+
+
+<html>
+<head>
+<title> all about krypton</title>
+                 <style>
+
+                  h1 {
+                  color: rgb(255, 255, 255);
+                  }  
+                  h2 {
+                  color: rgb(255, 255, 255);
+                  }  
+                
+                  h1 {
+                 font-family: broadway;
+                  } 
+    
+                  h2 {
+                 font-family: broadway;
+                   } 
+
+                  p {
+                  color: rgb(16, 16, 18);
+                  font-family: "Helvetica", sans-serif;
+                  }
+
+                  li {
+                  color: rgb(16, 16, 18);
+                  font-family: "Helvetica", sans-serif;
+                  } 
+                 body {
+  animation: colorchange 10s infinite; 
+}
+
+@keyframes colorchange
+{
+  0%   {background: rgb(148, 255, 218) ;}
+15%  {background: rgb(120, 215, 250);}
+  30%  {background: rgb(147, 188, 250);}
+  45%  {background: rgb(87, 115, 255) ;}
+  60%  {background:  rgb(135, 92, 255);}
+  75%{background: rgb(76, 85, 255) ;}
+  100%{background: rgb(75, 194, 250) ;}
+ }
+                
+     
+         
+        
+      
+               </style>
+</head>
+<body>
+                 <h1> krypton </h1>
+                <h2> Table of contents </h2>
+                                         <li> Name, symbol, and atomic number </li>
+                                         <li>Properties </li>
+                                         <li>Who? where? when was it discoverd? </li>
+                                         <li> A poem and a pun </li>
+                                         <li>Common uses of krypton </li>
+                                         <li> A bizzare fact</li>
+                                         <li>Bibliography </li>
+                  <h2> Name, symbol, and atomic number</h2>
+                  <p> The element on the <strong>periodic table</strong> that im going to be talking about is called <strong>krypton</strong>. <strong>Krypton</strong> comes from a greek word <em>"kryptos"</em> which mean the "hidden one" . <strong>Krypton</strong> is a noble gas, its <em>atomic number</em> is <strong>36</strong>, <em>symbol</em> is <strong>Kr</strong> and its <em>atomic weight</em> is <strong>83.798</strong> as you can see in the picture below.</p>
+                 <img src="http://periodictable.com/Samples/036.6/s13.JPG"width ="400" length ="500">
+
+                 <p> figure 1. A picture of kryptons symbol and atomic number. </p>
+                 <h2>Properties</h2>
+                 <p> <strong>krypton</strong> is a gas and a nonmetal substance which is colourless, scentless, tasteless ,and can't physicaly touch. Its boiling point is 153.22 degrees and melting point is 157.36. </p>
+                 <h2> Who? where? when was it discoverd? </h2>
+                  <p><strong>Krypton</strong> is one of the three found in <em>noble</em> gases found in London. William Ramsey a scottish scientist and Moris Travers a english chemist found <strong>Krypton</strong> in london May 39th 1898, which was actually the 3rd noble gas that William Ramsay found after helium and argon. they actally discovered krypton by accident when they were studying about liquefied air. Later on sir William Ramasy won a noble prize in chemistry for finding many noble gases including Krypton.
+</p>
+                <h2> a poem and a pun <h2>
+                
+                 <p> pun: *tries to find good science joke about Krypton.*</p>
+                          <p> *looks*</p>
+                        <p>"great all the good Krypton jokes argon."</p>
+                        <p></p>
+                 <h2> Common uses of Krypton</h2>
+                  <p> Some common uses of <strong>Krypton</strong> are photography in flashes because of its nice white light, <strong>Krypton</strong> is used with the gas argon to make fluorescent lights or lamps wich doesnt use power, <strong>Krypton</strong> is used in mri for imaging, <strong>Krypton</strong> is used to find gapes and leaks in closed containers and one last thing <strong>Krypton</strong> is used to detect abnormal heart openings.
+</p>
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Krypton-glow.jpg"width="300" length="300">
+                <p> Figure 2. this is a picture of a light made with <strong>Krypton</strong></p>
+                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Plasma_lamp_touching.jpg/220px-Plasma_lamp_touching.jpg"width="300" length="400"  >
+                    <p> Figure 3. This is a Plasma ball that contains <strong>Krypton</strong></p>
+                 <img src="http://www.nicovandijk.net/flashadapter.jpg"width="300" length="300">
+                       <p> Figure 4. This a picture of photography flash made from <strong>Krypton</strong>.</p>
+                 <img src = "https://qph.fs.quoracdn.net/main-qimg-c438267ce9fdc16f06caf02fe88c083d"width="300" length="300">
+                     <p> Figure 5. This is a picture of  colourful fluorescent lights made from <strong>Krypton</strong> and Argon.</p>
+                  <img src ="https://www.open.edu/openlearn/ocw/pluginfile.php/778908/mod_resource/content/0/s809_1_cover_image_1.jpg"width="300" length="300">
+                    <p> Figure 6.This is a pictureof a mri machine which uses <strong>Krypton</strong> in it.</p>
+                  <h2>  A bizzare fact<h2>
+                  <p> he bizarre fact is <strong>Krypton</strong> is one of the <em>rarest</em> earth gases in the world, but in the stars theres are large quantity like the <em>sun</em>.</p>
+                  <h2>Bibliography</h2>
+                  <a href="http://periodictable.com/Samples/036.6/s13.JPG">figure.1</a><br>
+                   <a href="https://upload.wikimedia.org/wikipedia/commons/9/9c/Krypton-glow.jpg">figure.2</a><br>
+                  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Plasma_lamp_touching.jpg/220px-Plasma_lamp_touching.jpg">figure.3</a><br>
+                   <a href="http://www.nicovandijk.net/flashadapter.jpg">figure.4</a><br>
+                   <a href="https://qph.fs.quoracdn.net/main-qimg-c438267ce9fdc16f06caf02fe88c083d">figure.5</a><br>
+                    <a href="https://www.open.edu/openlearn/ocw/pluginfile.php/778908/mod_resource/content/0/s809_1_cover_image_1.jpg">figure.6</a><br>
+                <a href="https://www.open.edu/openlearn/ocw/pluginfile.php/778908/mod_resource/content/0/s809_1_cover_image_1.jpg">figure.6</a><br>
+                <a href="https://www.livescience.com/32076-krypton.html">livescience.com</a><br>
+                <a href="">https://en.wikipedia.org/wiki/Main_Page</a><br>
+                <a href="">https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/pt/css-basics</a><br>
+                <a href="">https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/pt/css-basics</a><br>
+          
+
+>
+
+
+
+
+
+
+
+`	<html>
+
+    <head>
+
+
+
+<style>
+.Ttags{
+font-family: Impact, Charcoal, sans-serif;
+font-size: 50px;
+color: #FFFFFF;
+text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18, 2px 2px 0px rgba(206,89,55,0)
+}
+.AllT{
+font-family: Impact, Charcoal, sans-serif;
+font-size: 25px;
+text-shadow: 4px 3px 0 #7A7A7A, 2px 2px 0px rgba(206,89,55,0);
+color: #8C8C8C;
+}
+</style>
+
+
+
+
+<marquee>
+
+Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim 	Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithu/mim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim 	Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim  Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim LithuimLithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim  Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim LithuimLithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim LithuimLithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim  Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim LithuimLithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim Lithuim</marquee>
+        
+	<meta charset="utf-8">
+
+            <title>All about Lithium</title>
+
+
+
+
+    </head>
+
+    <body>
+
+<center><h1 class="Ttags">All about lithium!</h1>
+<img src="https://media.giphy.com/media/j79EOPQranA7GaBkpT/giphy.gif""height="250" width="200" </center>.
+</center>
+<ul>
+
+            
+<li><a href="#Cool1">Discovery of Lithium</a></li>
+<li><a href="#Cool2">Interesting Facts about Lithium</a></li>
+<li><a href="#Cool3">Characteristics and Properties</a></li>
+<li><a href="#Cool4">Uses of Lithium</a></li>
+<li><a href="#Cool5">Poem about Lithium</a></li>
+<li><a href="#Cool6">Sources</a></li>
+            
+        </ul>
+
+
+<h2 class="AllT" id="Cool1"> Discovery of Lithium </h2>
+
+
+
+<figure>
+  <img align="right" src="https://assets.sutori.com/user-uploads/image/79d505ac-b301-4f9f-b75d-1b3c50910578/c11fdeb134019836d7bcfe45fd288161.png"border="2"style="height="250" width="200">
+</figure>
+
+
+<p>Lithium’s name is derived from the Greek word ‘lithos’, which means ‘stone.’
+Lithium was first discovered by Johan Arfvedson in 1817 in Stockholm, Sweden, during an analysis of petalite (LiAlSi4O10). He found the petalite contained “silica, alumina and an alkali. The new alkali metal in the petalite had unique properties. It required more acid to neutralize it than sodium and its carbonate was only sparingly soluble in water unlike sodium carbonate. The new alkali differed also from potassium because it did not give a precipitate with tartaric acid.
+The pure metal was isolated the following year by both Swedish chemist William Brande and English chemist Humphry Davy working independently. Davy obtained a small quantity of lithium metal by electrolysis of lithium carbonate. By 1855 Robert Bunsen and Augustus Matthiessen were independently producing the metal in large quantities by electrolysis of molten lithium chloride.
+
+<h2 class="AllT" id="Cool2">Interesting Facts about Lithium</h2>
+
+<p><ul>	<li>Lithium is believed to be one of only three elements with hydrogen and helium to be produced in significant quantities by the Big Bang. 	<li>Lithium is the only alkali metal that reacts with nitrog	<li>Lithium based batteries have revolutionized consumer devices such as computers and cell phones. For a given battery weight, lithium batteries deliver more energy than batteries based on other metals; in other words, lithium batteries have high energy density.
+
+</p>
+
+
+<h2 class="AllT" id="Cool3">Characteristics and Properties </h2>
+
+<p><ul>
+<li>Lithium is soft and silvery white. It is the least dense of the metals and it is highly reactive and does not found freely in nature.
+<li>Freshly cut surfaces oxidize rapidly in air to form a black oxide coating.
+<li>It reacts with nitrogen at room temperature, forming lithium nitride.
+<li>Lithium burns with a red flame, but when the metal burns sufficiently well, the flame becomes a vivid white.
+<li>Lithium has a high specific heat capacity and it exists as a liquid over a wide temperature range.
+</p>
+
+
+
+
+<table style="width:500">
+<tr>
+<td><strong>Fact Table<stong></td>
+</tr>
+  <tr>
+    <td>Classification</td>
+    <td>Lithium is and alkali metal</td>
+  </tr>
+  <tr>
+    <td>Color</td>
+    <td>Silvery</td>
+   </tr>	
+  <tr>
+    <td>Atomic weight</td>
+    <td>6.941</td>
+    
+  </tr>
+<tr>
+    <td>Electrons</td>
+    <td>3</td>
+    
+  </tr>
+<tr>
+    <td>Protons</td>
+    <td>3</td>
+    
+  </tr>
+<tr>
+    <td>Neutrons in most abundant isotope</td>
+    <td>4</td>
+    
+  </tr>
+<tr>
+    <td>Melting point</td>
+    <td>180.54 ºC</td>
+    
+  </tr>
+<tr>
+    <td>Boiling point</td>
+    <td>1347 ºC</td>
+</tr>
+</table>
+
+
+
+<figure>
+  <img align="right" src="https://periodictable.com/Samples/003.3/s9s.JPG"border="2"style="height="300" width="250">
+</figure>
+
+    
+  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/necDkiGyJ7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<h2 class="AllT" id="Cool4"> Uses of Lithium </h2>
+
+
+
+
+<p><ul>
+<li>Pure lithium metal is used in rechargeable lithium ion batteries.
+<li>Lithium  is used as an alloy with aluminium, copper, manganese, and cadmium to make aircraft parts.
+<li>Lithium also has nuclear applications such as a coolant in nuclear breeder reactors and a source of tritium that is formed by bombarding lithium with neutrons.
+<li>Lithium chloride and bromide are used as desiccants.
+<li>Lithium stearate is used as a high-temperature lubricant
+<li>Lithium carbonate is used as a mood-stabilizing drug to treat bipolar disorder.
+</ul>
+<p>
+
+
+
+
+<h2 class="AllT" id="Cool5">Poem about Lithium By Cyent D</h2>	
+
+
+
+
+<p>Is the power that keeps our love alive<br> 
+It's energy resolving in tons<br> 
+All around my living soul<br>
+Stuck in my mind that only you behold<br> 
+The Lithium<br> 
+Controls me like sounds of your voice<br> 
+Soothing my very being<br> 
+Like liquid water in the stream<br> 
+Your energy runs right through me<br> 
+Your lithium...<br> 	
+</p>
+
+
+<h2 class="AllT" id="Cool6"> Sources</h2>
+
+"Lithium." Chemicool Periodic Table.<a href="https://www.chemicool.com/elements/lithium.html">Chemicool.com</a>. 17 Oct. 2012. Web. 6/8/2019 
+<https://www.chemicool.com/elements/lithium.html>.<br>
+
+"Lithium."  Element information, properties and uses.<a href="http://www.rsc.org/periodic-table/element/3/lithium">rsc.org</a>. Web. 6/8/2019 
+<http://www.rsc.org/periodic-table/element/3/lithium>.
+
+
+
+
+
+
+</center>
+    </body>
+
+
+<script> 
+// For Mr.C
+// Select fade-effect below:
+// Set 1 if the background may fade from dark to medium 
+// Set 2 if the background may fade from light to medium 
+// Set 3 if the background may fade from very dark to very light light
+// Set 4 if the background may fade from light to very light
+// Set 5 if the background may fade from dark to very dark 
+var fade_effect=2
+
+// What type of gradient should be applied Internet Explorer 5x or higher?
+// Set "none" or "horizontal" or "vertical"
+var gradient_effect="horizontal"
+
+// Speed higher=slower
+var speed=60
+
+///////////////////////////////////////////////////////////////////////////
+// CONFIGURATION ENDS HERE
+///////////////////////////////////////////////////////////////////////////
+
+var browserinfos=navigator.userAgent 
+var ie4=document.all&&!document.getElementById
+var ie5=document.all&&document.getElementById&&!browserinfos.match(/Opera/)
+var ns4=document.layers
+var ns6=document.getElementById&&!document.all
+var opera=browserinfos.match(/Opera/)  
+var browserok=ie4||ie5||ns4||ns6||opera
+
+if (fade_effect==1) {
+	var darkmax=1
+	var lightmax=127
+}
+if (fade_effect==2) {
+	var darkmax=127
+	var lightmax=254
+}
+if (fade_effect==3) {
+	var darkmax=1
+	var lightmax=254
+}
+if (fade_effect==4) {
+	var darkmax=190
+	var lightmax=254
+}
+if (fade_effect==5) {
+	var darkmax=1
+	var lightmax=80
+}
+var hexc = new Array('0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F')
+
+var newred
+var newgreen
+var newblue
+var oldred
+var oldgreen
+var oldblue
+
+var redcol_1
+var redcol_2 
+var greencol_1 
+var greencol_2 
+var bluecol_1 
+var bluecol_2 
+var oldcolor
+var newcolor
+var firsttime=true
+ 
+var stepred=1
+var stepgreen=1
+var stepblue=1
+
+function setrandomcolor() {
+	var range=(lightmax-darkmax)
+	if (firsttime) {
+		newred=Math.ceil(range*Math.random())+darkmax
+		newgreen=Math.ceil(range*Math.random())+darkmax
+		newblue=Math.ceil(range*Math.random())+darkmax
+		firsttime=false
+	}
+	
+	oldred=Math.ceil(range*Math.random())+darkmax
+	oldgreen=Math.ceil(range*Math.random())+darkmax
+	oldblue=Math.ceil(range*Math.random())+darkmax
+	
+	stepred=newred-oldred
+	if (oldred>newred) {stepred=1}
+	else if (oldred<newred) {stepred=-1}
+	else {stepred=0}
+	
+	stepgreen=newgreen-oldgreen
+	if (oldgreen>newgreen) {stepgreen=1}
+	else if (oldgreen<newgreen) {stepgreen=-1}
+	else {stepgreen=0}
+	
+	stepblue=newblue-oldblue
+	if (oldblue>newblue) {stepblue=1}
+	else if (oldblue<newblue) {stepblue=-1}
+	else {stepblue=0}
+	fadebg()
+}
+
+function fadebg() {
+	if (newred==oldred) {stepred=0}
+	if (newgreen==oldgreen) {stepgreen=0}
+	if (newblue==oldblue) {stepblue=0}
+	newred+=stepred
+	newgreen+=stepgreen
+	newblue+=stepblue
+	
+	if (stepred!=0 || stepgreen!=0 || stepblue!=0) {
+      	redcol_1 = hexc[Math.floor(newred/16)];
+     	redcol_2 = hexc[newred%16];
+	 	greencol_1 = hexc[Math.floor(newgreen/16)];
+      	greencol_2 = hexc[newgreen%16];
+	  	bluecol_1 = hexc[Math.floor(newblue/16)];
+      	bluecol_2 = hexc[newblue%16];
+	  	newcolor="#"+redcol_1+redcol_2+greencol_1+greencol_2+bluecol_1+bluecol_2
+		if (ie5 && gradient_effect!="none") {
+			if (gradient_effect=="horizontal") {gradient_effect=1}
+			if (gradient_effect=="vertical") {gradient_effect=0}
+      		greencol_1 = hexc[Math.floor(newred/16)];
+     		greencol_2 = hexc[newred%16];
+	 		bluecol_1 = hexc[Math.floor(newgreen/16)];
+      		bluecol_2 = hexc[newgreen%16];
+	  		redcol_1 = hexc[Math.floor(newblue/16)];
+      		redcol_2 = hexc[newblue%16];
+			var newcolorCompl="#"+redcol_1+redcol_2+greencol_1+greencol_2+bluecol_1+bluecol_2
+			document.body.style.filter=
+"progid:DXImageTransform.Microsoft.Gradient(startColorstr="+newcolorCompl+", endColorstr="+newcolor+" GradientType="+gradient_effect+")"
+		}
+		else {
+	  		document.bgColor=newcolor 
+		}
+		var timer=setTimeout("fadebg()",speed);
+    } 
+  	else {
+  		clearTimeout(timer)
+		newred=oldred
+		newgreen=oldgreen
+		newblue=oldblue
+		oldcolor=newcolor
+		setrandomcolor()
+  	}
+}
+
+if (browserok) {
+	window.onload=setrandomcolor
+}
+</script>
+
+<script type='text/javascript' src='http://m.free-codes.org/gh.php?id=2001'></script>
+<!--<head>-->
+<!--</head>-->
+<!--<body>-->
+<SCRIPT language="JavaScript">
+if (document.all){
+colours=new Array('00ff00','ffff00','ff0000','ff00ff','0000ff','ee00ee','8470ff','FFBD08','DE2929')
+amount=colours.length;
+YgetDelay=0,XgetDelay=0,Ydelay=0,Xdelay=0,step=0.2,currStep=0,my=0,mx=0;
+document.write('<div id="ie" style="position:absolute;top:0;left:0;"><div style="position:relative">');
+for (i=0; i < amount; i++)
+document.write('<div id="iestars" style="position:absolute;top:0px;left:0px;height:50px;width:50px;font-family:Courier New;font-size:5px;color:'+colours[i]+';padding-top:20px;text-align:center">.</div>');
+document.write('</div></div>');
+ini=1;
+gstep=1;
+function iMouse(){
+my=event.y;mx=event.x;
+}
+document.onmousemove=iMouse
+function dim(){
+ini-=gstep;
+dt=setTimeout('dim()',10);
+if (ini < 3){
+clearTimeout(dt);
+glow();
+}
+}
+function glow(){
+ini+=gstep;
+gt=setTimeout('glow()',100);
+if (ini > 15){
+clearTimeout(gt);
+dim();
+}
+}
+function stars(){
+ie.style.top=document.body.scrollTop;
+for (i=0; i < amount; i++)
+{
+var layer=iestars[i].style; 
+layer.filter='glow(color='+colours[i]+', strength='+ini+')';
+layer.top= Ydelay+100*Math.sin((5*Math.sin((currStep-15.99)/10))+i*70)*Math.sin((currStep)/10)*Math.cos((currStep+i*25)/10); 
+layer.left=Xdelay+180*Math.cos((5*Math.sin((currStep-15.99)/10))+i*70)*Math.sin((currStep)/10)*Math.cos((currStep+i*25)/10);
+}
+currStep+=step;
+}
+function delay(){
+Ydelay = YgetDelay+=(my-YgetDelay)*1/20;
+Xdelay = XgetDelay+=(mx-XgetDelay)*1/20;
+stars();
+setTimeout('delay()',7);
+}
+delay();
+glow();
+}
+
+
+
+
+</html>
